@@ -1,0 +1,4957 @@
+[{
+    "symbol": "4ART-BTC",
+    "high": "0.00000095",
+    "low": "0.00000086",
+    "volume": "101189.99756531",
+    "quoteVolume": "0.09212646",
+    "percentChange": "-8.42",
+    "updatedAt": "2020-11-23T06:14:19.85Z"
+}, {
+    "symbol": "4ART-USDT",
+    "high": "0.01767000",
+    "low": "0.01616000",
+    "volume": "34351.56723184",
+    "quoteVolume": "583.30667380",
+    "percentChange": "-8.55",
+    "updatedAt": "2020-11-23T06:02:54.427Z"
+}, {
+    "symbol": "AAVE-BTC",
+    "high": "0.00400706",
+    "low": "0.00348009",
+    "volume": "37.36519953",
+    "quoteVolume": "0.14236393",
+    "percentChange": "5.40",
+    "updatedAt": "2020-11-23T06:24:45.097Z"
+}, {
+    "symbol": "AAVE-ETH",
+    "high": "0.13168229",
+    "low": "0.11823062",
+    "volume": "18.42444072",
+    "quoteVolume": "2.23937392",
+    "percentChange": "3.88",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "AAVE-EUR",
+    "high": "60.02200000",
+    "low": "54.57000000",
+    "volume": "0.14237300",
+    "quoteVolume": "8.14540150",
+    "percentChange": "4.48",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "AAVE-USD",
+    "high": "74.72500000",
+    "low": "63.34600000",
+    "volume": "4.31211626",
+    "quoteVolume": "291.85934006",
+    "percentChange": "9.53",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "AAVE-USDT",
+    "high": "72.46500000",
+    "low": "72.46500000",
+    "volume": "0.04777300",
+    "quoteVolume": "3.46187044",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:24:40.067Z"
+}, {
+    "symbol": "ABBC-BTC",
+    "high": "0.00001300",
+    "low": "0.00001153",
+    "volume": "130286.59367197",
+    "quoteVolume": "1.63183798",
+    "percentChange": "-6.97",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ABYSS-BTC",
+    "high": "0.00000074",
+    "low": "0.00000071",
+    "volume": "55296.14929765",
+    "quoteVolume": "0.04055027",
+    "percentChange": "4.23",
+    "updatedAt": "2020-11-23T06:17:19.957Z"
+}, {
+    "symbol": "ADABEAR-USD",
+    "high": "0.19300000",
+    "low": "0.11300000",
+    "volume": "41755.71984344",
+    "quoteVolume": "5190.62395482",
+    "percentChange": "-40.41",
+    "updatedAt": "2020-11-23T06:24:05.11Z"
+}, {
+    "symbol": "ADABEAR-USDT",
+    "high": "0.12500000",
+    "low": "0.11400000",
+    "volume": "18067.58513168",
+    "quoteVolume": "2258.29473500",
+    "percentChange": "-8.80",
+    "updatedAt": "2020-11-23T06:24:40.067Z"
+}, {
+    "symbol": "ADA-BTC",
+    "high": "0.00000824",
+    "low": "0.00000656",
+    "volume": "22722022.92529154",
+    "quoteVolume": "173.88585798",
+    "percentChange": "21.70",
+    "updatedAt": "2020-11-23T06:24:10.377Z"
+}, {
+    "symbol": "ADABULL-USD",
+    "high": "1970.58200000",
+    "low": "1709.56500000",
+    "volume": "0.23258652",
+    "quoteVolume": "424.94509625",
+    "percentChange": "-13.25",
+    "updatedAt": "2020-11-23T06:24:45.097Z"
+}, {
+    "symbol": "ADABULL-USDT",
+    "high": "2075.00000000",
+    "low": "2075.00000000",
+    "volume": "0.45262388",
+    "quoteVolume": "939.19455100",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "ADA-ETH",
+    "high": "0.00026800",
+    "low": "0.00022460",
+    "volume": "1769210.71957989",
+    "quoteVolume": "444.35530950",
+    "percentChange": "13.13",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ADA-USD",
+    "high": "0.15332000",
+    "low": "0.11880000",
+    "volume": "20300721.89549509",
+    "quoteVolume": "2852658.96242643",
+    "percentChange": "20.66",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ADA-USDT",
+    "high": "0.15325862",
+    "low": "0.12024493",
+    "volume": "9458210.04747577",
+    "quoteVolume": "1346617.30074439",
+    "percentChange": "20.33",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ADT-BTC",
+    "high": "0.00000003",
+    "low": "0.00000002",
+    "volume": "1286589.74053977",
+    "quoteVolume": "0.02712885",
+    "percentChange": "50.0",
+    "updatedAt": "2020-11-23T04:43:02.44Z"
+}, {
+    "symbol": "ADX-BTC",
+    "high": "0.00001843",
+    "low": "0.00001622",
+    "volume": "36793.00826408",
+    "quoteVolume": "0.65261572",
+    "percentChange": "7.65",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ADX-ETH",
+    "high": "0.00061000",
+    "low": "0.00053421",
+    "volume": "2326.11619427",
+    "quoteVolume": "1.26458427",
+    "percentChange": "14.19",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "AEON-BTC",
+    "high": "0.00002254",
+    "low": "0.00002069",
+    "volume": "9267.75156273",
+    "quoteVolume": "0.19393213",
+    "percentChange": "-6.52",
+    "updatedAt": "2020-11-23T06:23:15.06Z"
+}, {
+    "symbol": "AID-BTC",
+    "high": "0.00000069",
+    "low": "0.00000047",
+    "volume": "52135.26109641",
+    "quoteVolume": "0.02816648",
+    "percentChange": "4.26",
+    "updatedAt": "2020-11-22T19:40:45.35Z"
+}, {
+    "symbol": "AKN-BTC",
+    "high": "0.00000865",
+    "low": "0.00000764",
+    "volume": "161749.59417685",
+    "quoteVolume": "1.28895491",
+    "percentChange": "-2.01",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "AKN-USDT",
+    "high": "0.15000000",
+    "low": "0.14100000",
+    "volume": "264526.22649836",
+    "quoteVolume": "38521.47353499",
+    "percentChange": "1.03",
+    "updatedAt": "2020-11-23T06:12:59.877Z"
+}, {
+    "symbol": "AKRO-BTC",
+    "high": "0.00000056",
+    "low": "0.00000051",
+    "volume": "837693.67096822",
+    "quoteVolume": "0.45218654",
+    "percentChange": "3.92",
+    "updatedAt": "2020-11-23T06:06:44.583Z"
+}, {
+    "symbol": "ALGO-BTC",
+    "high": "0.00001722",
+    "low": "0.00001549",
+    "volume": "54618.77199072",
+    "quoteVolume": "0.88752331",
+    "percentChange": "5.51",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ALGO-USD",
+    "high": "0.31777000",
+    "low": "0.28000000",
+    "volume": "62494.11094286",
+    "quoteVolume": "18768.03886529",
+    "percentChange": "10.57",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ALGO-USDT",
+    "high": "0.31802000",
+    "low": "0.27605000",
+    "volume": "43562.13642287",
+    "quoteVolume": "13075.25690869",
+    "percentChange": "6.89",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "AMP-BTC",
+    "high": "0.00000026",
+    "low": "0.00000023",
+    "volume": "542764.20090189",
+    "quoteVolume": "0.13436224",
+    "percentChange": "4.17",
+    "updatedAt": "2020-11-23T06:02:39.427Z"
+}, {
+    "symbol": "ANKR-BTC",
+    "high": "0.00000053",
+    "low": "0.00000047",
+    "volume": "548974.35327676",
+    "quoteVolume": "0.27948523",
+    "percentChange": "4.26",
+    "updatedAt": "2020-11-23T06:07:09.54Z"
+}, {
+    "symbol": "ANKR-ETH",
+    "high": "0.00001672",
+    "low": "0.00001585",
+    "volume": "39200.60266606",
+    "quoteVolume": "0.65291262",
+    "percentChange": "-4.00",
+    "updatedAt": "2020-11-23T06:14:09.867Z"
+}, {
+    "symbol": "ANT-BTC",
+    "high": "0.00023258",
+    "low": "0.00020405",
+    "volume": "22343.77849655",
+    "quoteVolume": "4.83325448",
+    "percentChange": "2.20",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ANT-ETH",
+    "high": "0.00795000",
+    "low": "0.00688301",
+    "volume": "14978.65382259",
+    "quoteVolume": "110.49739620",
+    "percentChange": "-5.44",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "APIX-BTC",
+    "high": "0.00000420",
+    "low": "0.00000318",
+    "volume": "340.39539966",
+    "quoteVolume": "0.00120505",
+    "percentChange": "-24.29",
+    "updatedAt": "2020-11-21T15:19:00.827Z"
+}, {
+    "symbol": "APM-BTC",
+    "high": "0.00000137",
+    "low": "0.00000127",
+    "volume": "29427.37275691",
+    "quoteVolume": "0.03814726",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "APM-USDT",
+    "high": "0.02534778",
+    "low": "0.02232060",
+    "volume": "14689.50928233",
+    "quoteVolume": "345.91211850",
+    "percentChange": "-6.45",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "AR-BTC",
+    "high": "0.00014899",
+    "low": "0.00013493",
+    "volume": "6256.11214130",
+    "quoteVolume": "0.88110535",
+    "percentChange": "0.80",
+    "updatedAt": "2020-11-23T06:23:05.17Z"
+}, {
+    "symbol": "ARDR-BTC",
+    "high": "0.00000324",
+    "low": "0.00000303",
+    "volume": "129644.35433632",
+    "quoteVolume": "0.40519358",
+    "percentChange": "2.63",
+    "updatedAt": "2020-11-23T06:23:10.09Z"
+}, {
+    "symbol": "ARK-BTC",
+    "high": "0.00002140",
+    "low": "0.00002050",
+    "volume": "31952.53811660",
+    "quoteVolume": "0.67126484",
+    "percentChange": "2.88",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ART-BTC",
+    "high": "0.00000002",
+    "low": "0.00000002",
+    "volume": "183429.53671452",
+    "quoteVolume": "0.00366859",
+    "percentChange": "0",
+    "updatedAt": "2020-11-21T20:25:03.54Z"
+}, {
+    "symbol": "ATOM-BTC",
+    "high": "0.00030856",
+    "low": "0.00029660",
+    "volume": "3346.99450785",
+    "quoteVolume": "1.00981808",
+    "percentChange": "2.14",
+    "updatedAt": "2020-11-23T06:24:35.16Z"
+}, {
+    "symbol": "ATOM-ETH",
+    "high": "0.01026715",
+    "low": "0.00970735",
+    "volume": "2916.42106837",
+    "quoteVolume": "29.83985763",
+    "percentChange": "-4.68",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ATOM-USD",
+    "high": "5.83696297",
+    "low": "5.30000000",
+    "volume": "2558.69678248",
+    "quoteVolume": "14205.94360683",
+    "percentChange": "3.61",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ATOM-USDT",
+    "high": "5.66625000",
+    "low": "5.29940000",
+    "volume": "1729.95380297",
+    "quoteVolume": "9406.08525592",
+    "percentChange": "2.52",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "BAL-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:24:40.067Z"
+}, {
+    "symbol": "BAL-ETH",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:24:45.097Z"
+}, {
+    "symbol": "BAL-EUR",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T05:34:58.687Z"
+}, {
+    "symbol": "BAL-USD",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:24:40.067Z"
+}, {
+    "symbol": "BAL-USDT",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "BAND-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:18:30.07Z"
+}, {
+    "symbol": "BAND-ETH",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:02:19.503Z"
+}, {
+    "symbol": "BAND-EUR",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:00:49.387Z"
+}, {
+    "symbol": "BAND-USD",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:14:49.883Z"
+}, {
+    "symbol": "BAND-USDT",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T05:22:28.51Z"
+}, {
+    "symbol": "BAT-BTC",
+    "high": "0.00001239",
+    "low": "0.00001172",
+    "volume": "463776.27544994",
+    "quoteVolume": "5.62323276",
+    "percentChange": "4.15",
+    "updatedAt": "2020-11-23T06:24:25.127Z"
+}, {
+    "symbol": "BAT-ETH",
+    "high": "0.00040768",
+    "low": "0.00038879",
+    "volume": "61354.61358242",
+    "quoteVolume": "24.41281880",
+    "percentChange": "-2.77",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "BAT-USD",
+    "high": "0.22933000",
+    "low": "0.20699000",
+    "volume": "169797.72684724",
+    "quoteVolume": "37626.31703082",
+    "percentChange": "3.78",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "BAT-USDT",
+    "high": "0.22892565",
+    "low": "0.20605680",
+    "volume": "159699.75449799",
+    "quoteVolume": "35229.20426154",
+    "percentChange": "3.05",
+    "updatedAt": "2020-11-23T06:24:45.097Z"
+}, {
+    "symbol": "BCH-BTC",
+    "high": "0.01628061",
+    "low": "0.01523069",
+    "volume": "723.15152054",
+    "quoteVolume": "11.35022629",
+    "percentChange": "1.20",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "BCH-ETH",
+    "high": "0.54169192",
+    "low": "0.50373943",
+    "volume": "188.02787841",
+    "quoteVolume": "98.00896073",
+    "percentChange": "-4.63",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "BCH-EUR",
+    "high": "247.50000000",
+    "low": "231.62100000",
+    "volume": "9.90117010",
+    "quoteVolume": "2373.81501158",
+    "percentChange": "2.70",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "BCH-USD",
+    "high": "299.99900000",
+    "low": "272.53400000",
+    "volume": "700.53677119",
+    "quoteVolume": "199919.74185665",
+    "percentChange": "1.04",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "BCH-USDT",
+    "high": "299.59688616",
+    "low": "272.81001942",
+    "volume": "746.11351357",
+    "quoteVolume": "213457.10847941",
+    "percentChange": "2.33",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "BEAR-USD",
+    "high": "0.14438000",
+    "low": "0.12686000",
+    "volume": "141080.88334013",
+    "quoteVolume": "18789.19488529",
+    "percentChange": "-3.97",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "BEAR-USDT",
+    "high": "0.13254000",
+    "low": "0.13020000",
+    "volume": "18414.46031217",
+    "quoteVolume": "2436.65764356",
+    "percentChange": "1.74",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "BFT-BTC",
+    "high": "0.00000052",
+    "low": "0.00000052",
+    "volume": "1572.72975000",
+    "quoteVolume": "0.00081781",
+    "percentChange": "0",
+    "updatedAt": "2020-11-22T11:37:02.847Z"
+}, {
+    "symbol": "BKX-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-10-27T18:07:36.753Z"
+}, {
+    "symbol": "BLK-BTC",
+    "high": "0.00000264",
+    "low": "0.00000230",
+    "volume": "242186.59356502",
+    "quoteVolume": "0.58338207",
+    "percentChange": "-0.42",
+    "updatedAt": "2020-11-23T06:19:05.027Z"
+}, {
+    "symbol": "BLOC-BTC",
+    "high": "0.00000001",
+    "low": "0.00000001",
+    "volume": "1358649.31966933",
+    "quoteVolume": "0.01358648",
+    "percentChange": "0",
+    "updatedAt": "2020-11-16T23:07:00.203Z"
+}, {
+    "symbol": "BLOCK-BTC",
+    "high": "0.00005976",
+    "low": "0.00005430",
+    "volume": "19092.03252633",
+    "quoteVolume": "1.06417611",
+    "percentChange": "-5.23",
+    "updatedAt": "2020-11-23T06:23:05.17Z"
+}, {
+    "symbol": "BLTV-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-22T08:39:07.323Z"
+}, {
+    "symbol": "BNT-BTC",
+    "high": "0.00006153",
+    "low": "0.00005837",
+    "volume": "10252.31948677",
+    "quoteVolume": "0.61424196",
+    "percentChange": "0.43",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "BNT-ETH",
+    "high": "0.00207335",
+    "low": "0.00195844",
+    "volume": "1812.82327078",
+    "quoteVolume": "3.61425266",
+    "percentChange": "-5.17",
+    "updatedAt": "2020-11-23T06:24:20.11Z"
+}, {
+    "symbol": "BOA-BTC",
+    "high": "0.00000467",
+    "low": "0.00000457",
+    "volume": "4991.54671840",
+    "quoteVolume": "0.02318784",
+    "percentChange": "0.65",
+    "updatedAt": "2020-11-23T06:22:15.057Z"
+}, {
+    "symbol": "BOA-USDT",
+    "high": "0.08500000",
+    "low": "0.08500000",
+    "volume": "1000.00000000",
+    "quoteVolume": "84.99999999",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "BORA-BTC",
+    "high": "0.00000154",
+    "low": "0.00000126",
+    "volume": "231498.21520856",
+    "quoteVolume": "0.32708335",
+    "percentChange": "-12.99",
+    "updatedAt": "2020-11-23T06:23:25.107Z"
+}, {
+    "symbol": "BRZ-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:24:40.067Z"
+}, {
+    "symbol": "BRZ-USDT",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T05:49:59.173Z"
+}, {
+    "symbol": "BSV-BTC",
+    "high": "0.01029583",
+    "low": "0.00957814",
+    "volume": "4205.93740945",
+    "quoteVolume": "41.48033225",
+    "percentChange": "-0.65",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "BSV-ETH",
+    "high": "0.34652516",
+    "low": "0.30856167",
+    "volume": "122.29840918",
+    "quoteVolume": "39.35608217",
+    "percentChange": "-9.12",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "BSV-EUR",
+    "high": "159.01700000",
+    "low": "144.00000000",
+    "volume": "581.84213022",
+    "quoteVolume": "88246.41132285",
+    "percentChange": "-2.37",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "BSV-USD",
+    "high": "188.86600000",
+    "low": "170.48600000",
+    "volume": "2635.62409273",
+    "quoteVolume": "476851.74351033",
+    "percentChange": "-1.61",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "BSV-USDT",
+    "high": "188.76570334",
+    "low": "166.99339285",
+    "volume": "1182.30877510",
+    "quoteVolume": "212940.04758385",
+    "percentChange": "-1.24",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "BTC-EUR",
+    "high": "15747.09500000",
+    "low": "14742.97200000",
+    "volume": "24.67968356",
+    "quoteVolume": "380610.86350062",
+    "percentChange": "-0.69",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "BTC-USD",
+    "high": "18689.99000000",
+    "low": "17630.00300000",
+    "volume": "830.40580990",
+    "quoteVolume": "15204742.38845432",
+    "percentChange": "-0.47",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "BTC-USDT",
+    "high": "18683.03680000",
+    "low": "17596.10120184",
+    "volume": "453.21380534",
+    "quoteVolume": "8274430.42319713",
+    "percentChange": "-0.46",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "BTE-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T01:43:03.5Z"
+}, {
+    "symbol": "BTE-USDT",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:02:44.427Z"
+}, {
+    "symbol": "BTM-BTC",
+    "high": "0.00000373",
+    "low": "0.00000355",
+    "volume": "2859.95597958",
+    "quoteVolume": "0.01037205",
+    "percentChange": "-1.91",
+    "updatedAt": "2020-11-23T06:08:19.59Z"
+}, {
+    "symbol": "BTS-BTC",
+    "high": "0.00000126",
+    "low": "0.00000116",
+    "volume": "394518.45985204",
+    "quoteVolume": "0.47775829",
+    "percentChange": "-2.42",
+    "updatedAt": "2020-11-23T06:15:04.84Z"
+}, {
+    "symbol": "BTT-BTC",
+    "high": "0.00000002",
+    "low": "0.00000001",
+    "volume": "3844667.14111095",
+    "quoteVolume": "0.06854327",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:11:04.68Z"
+}, {
+    "symbol": "BTT-USDT",
+    "high": "0.00032200",
+    "low": "0.00030142",
+    "volume": "21917567.58820656",
+    "quoteVolume": "6927.01316784",
+    "percentChange": "1.18",
+    "updatedAt": "2020-11-23T06:24:20.11Z"
+}, {
+    "symbol": "BTU-BTC",
+    "high": "0.00002778",
+    "low": "0.00002561",
+    "volume": "301.88565142",
+    "quoteVolume": "0.00813735",
+    "percentChange": "5.43",
+    "updatedAt": "2020-11-23T05:39:33.817Z"
+}, {
+    "symbol": "BULL-USD",
+    "high": "12894.00000000",
+    "low": "12028.77100000",
+    "volume": "0.06548110",
+    "quoteVolume": "831.81851937",
+    "percentChange": "3.81",
+    "updatedAt": "2020-11-23T06:24:40.067Z"
+}, {
+    "symbol": "BULL-USDT",
+    "high": "12615.00000000",
+    "low": "11954.92600000",
+    "volume": "0.07731949",
+    "quoteVolume": "973.48788462",
+    "percentChange": "5.52",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "BURST-BTC",
+    "high": "0.00000012",
+    "low": "0.00000011",
+    "volume": "2517858.32998000",
+    "quoteVolume": "0.28832410",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T05:50:44.097Z"
+}, {
+    "symbol": "BWF-BTC",
+    "high": "0.00000075",
+    "low": "0.00000073",
+    "volume": "15022.05319611",
+    "quoteVolume": "0.01113531",
+    "percentChange": "-2.67",
+    "updatedAt": "2020-11-23T06:05:59.55Z"
+}, {
+    "symbol": "BWF-USDT",
+    "high": "0.01489000",
+    "low": "0.01311000",
+    "volume": "4956434.85906293",
+    "quoteVolume": "68074.38929542",
+    "percentChange": "-7.67",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "BWX-BTC",
+    "high": "0.00000178",
+    "low": "0.00000166",
+    "volume": "22686.66045154",
+    "quoteVolume": "0.03992369",
+    "percentChange": "-6.74",
+    "updatedAt": "2020-11-23T06:07:24.573Z"
+}, {
+    "symbol": "CAMP-BTC",
+    "high": "0.00000069",
+    "low": "0.00000066",
+    "volume": "24949.97033332",
+    "quoteVolume": "0.01652228",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:13:04.923Z"
+}, {
+    "symbol": "CAMP-USDT",
+    "high": "0.01219000",
+    "low": "0.01089000",
+    "volume": "7523749.87134097",
+    "quoteVolume": "87949.57878320",
+    "percentChange": "-6.07",
+    "updatedAt": "2020-11-23T06:24:45.097Z"
+}, {
+    "symbol": "CELO-BTC",
+    "high": "0.00012250",
+    "low": "0.00009348",
+    "volume": "50274.38341136",
+    "quoteVolume": "5.29902892",
+    "percentChange": "7.52",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "CELO-ETH",
+    "high": "0.00401100",
+    "low": "0.00326054",
+    "volume": "2517.52881953",
+    "quoteVolume": "9.17027614",
+    "percentChange": "3.75",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "CELO-USD",
+    "high": "2.25000000",
+    "low": "1.73300000",
+    "volume": "70146.68995114",
+    "quoteVolume": "138333.09675717",
+    "percentChange": "10.36",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "CELO-USDT",
+    "high": "2.24900000",
+    "low": "1.73300000",
+    "volume": "40889.30909804",
+    "quoteVolume": "78682.66863293",
+    "percentChange": "10.56",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "CGT-BTC",
+    "high": "0.00324001",
+    "low": "0.00324001",
+    "volume": "27.97992214",
+    "quoteVolume": "0.09065522",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "CGT-USDT",
+    "high": "60.57000000",
+    "low": "60.55500000",
+    "volume": "27.25967832",
+    "quoteVolume": "1650.82798425",
+    "percentChange": "0.02",
+    "updatedAt": "2020-11-23T06:20:25.157Z"
+}, {
+    "symbol": "CHR-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-03T06:53:36.39Z"
+}, {
+    "symbol": "CKB-BTC",
+    "high": "0.00000019",
+    "low": "0.00000017",
+    "volume": "4551557.91343097",
+    "quoteVolume": "0.81066178",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:06:29.537Z"
+}, {
+    "symbol": "CKB-USDT",
+    "high": "0.00332187",
+    "low": "0.00318193",
+    "volume": "418987.43575300",
+    "quoteVolume": "1369.08160883",
+    "percentChange": "2.49",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "CMCT-BTC",
+    "high": "0.00000001",
+    "low": "0.00000001",
+    "volume": "59412190.42171201",
+    "quoteVolume": "0.59412171",
+    "percentChange": "0",
+    "updatedAt": "2020-11-19T00:56:04.017Z"
+}, {
+    "symbol": "CND-BTC",
+    "high": "0.00000058",
+    "low": "0.00000045",
+    "volume": "188815.80924572",
+    "quoteVolume": "0.10116956",
+    "percentChange": "-11.76",
+    "updatedAt": "2020-11-23T06:20:40.143Z"
+}, {
+    "symbol": "CNS-BTC",
+    "high": "0.00000002",
+    "low": "0.00000001",
+    "volume": "1912933.04330711",
+    "quoteVolume": "0.03623334",
+    "percentChange": "100",
+    "updatedAt": "2020-11-22T20:48:46.727Z"
+}, {
+    "symbol": "CNS-USDT",
+    "high": "0.00031000",
+    "low": "0.00024000",
+    "volume": "4347473.00339821",
+    "quoteVolume": "1151.19837097",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T01:00:27.417Z"
+}, {
+    "symbol": "CNTM-BTC",
+    "high": "0.00006782",
+    "low": "0.00006330",
+    "volume": "2833.54659125",
+    "quoteVolume": "0.18264241",
+    "percentChange": "1.92",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "CNTM-USDT",
+    "high": "1.17998000",
+    "low": "1.17820000",
+    "volume": "23034.40895183",
+    "quoteVolume": "27158.48584968",
+    "percentChange": "0.03",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "COMP-BTC",
+    "high": "0.00666522",
+    "low": "0.00632891",
+    "volume": "141.42476349",
+    "quoteVolume": "0.91994217",
+    "percentChange": "2.13",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "COMP-ETH",
+    "high": "0.22407003",
+    "low": "0.20808085",
+    "volume": "27.02053164",
+    "quoteVolume": "5.90542447",
+    "percentChange": "-3.79",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "COMP-USD",
+    "high": "123.89600000",
+    "low": "113.54200000",
+    "volume": "405.25892481",
+    "quoteVolume": "47861.76855676",
+    "percentChange": "3.66",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "COMP-USDT",
+    "high": "123.43500000",
+    "low": "112.83000000",
+    "volume": "204.61760044",
+    "quoteVolume": "24134.76779086",
+    "percentChange": "2.70",
+    "updatedAt": "2020-11-23T06:24:30.067Z"
+}, {
+    "symbol": "COSM-BTC",
+    "high": "0.00000005",
+    "low": "0.00000004",
+    "volume": "196623.46515268",
+    "quoteVolume": "0.00804058",
+    "percentChange": "-20.0",
+    "updatedAt": "2020-11-23T03:06:30.457Z"
+}, {
+    "symbol": "CPC-BTC",
+    "high": "0.00000025",
+    "low": "0.00000023",
+    "volume": "14032564.29729181",
+    "quoteVolume": "3.36410859",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "CRO-BTC",
+    "high": "0.00000395",
+    "low": "0.00000382",
+    "volume": "36391464.49921138",
+    "quoteVolume": "140.86553435",
+    "percentChange": "-0.77",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "CRO-ETH",
+    "high": "0.00013494",
+    "low": "0.00012100",
+    "volume": "21043467.26317666",
+    "quoteVolume": "2705.80938651",
+    "percentChange": "-7.65",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "CRO-EUR",
+    "high": "0.06134000",
+    "low": "0.05769000",
+    "volume": "17527100.96544923",
+    "quoteVolume": "1047945.34287347",
+    "percentChange": "-3.11",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "CRO-USD",
+    "high": "0.07257000",
+    "low": "0.06910000",
+    "volume": "22998161.68683874",
+    "quoteVolume": "1635421.53796637",
+    "percentChange": "-1.29",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "CRO-USDT",
+    "high": "0.07249997",
+    "low": "0.06880001",
+    "volume": "38518366.95309388",
+    "quoteVolume": "2735485.79011051",
+    "percentChange": "-1.12",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "CRW-BTC",
+    "high": "0.00000327",
+    "low": "0.00000308",
+    "volume": "47868.99801516",
+    "quoteVolume": "0.15239702",
+    "percentChange": "-1.53",
+    "updatedAt": "2020-11-23T06:22:54.997Z"
+}, {
+    "symbol": "CTC-BTC",
+    "high": "0.00003252",
+    "low": "0.00002806",
+    "volume": "102075.20480391",
+    "quoteVolume": "3.22661172",
+    "percentChange": "-3.19",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "CTXC-BTC",
+    "high": "0.00000479",
+    "low": "0.00000443",
+    "volume": "5642.30334745",
+    "quoteVolume": "0.02524972",
+    "percentChange": "-0.89",
+    "updatedAt": "2020-11-23T06:23:50.017Z"
+}, {
+    "symbol": "CURE-BTC",
+    "high": "0.00000409",
+    "low": "0.00000379",
+    "volume": "15653.42090183",
+    "quoteVolume": "0.06145791",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:24:15.05Z"
+}, {
+    "symbol": "CUSD-BTC",
+    "high": "0.00005628",
+    "low": "0.00005364",
+    "volume": "153104.88573218",
+    "quoteVolume": "8.30790732",
+    "percentChange": "-0.99",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "CUSD-USDT",
+    "high": "1.00200000",
+    "low": "0.99070000",
+    "volume": "161866.09530971",
+    "quoteVolume": "161685.18621668",
+    "percentChange": "0.59",
+    "updatedAt": "2020-11-23T06:20:45.113Z"
+}, {
+    "symbol": "CVC-BTC",
+    "high": "0.00000508",
+    "low": "0.00000410",
+    "volume": "331710.03352959",
+    "quoteVolume": "1.48435944",
+    "percentChange": "17.14",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "CVC-ETH",
+    "high": "0.00016639",
+    "low": "0.00014191",
+    "volume": "41407.21212706",
+    "quoteVolume": "6.10912522",
+    "percentChange": "3.29",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "CVT-BTC",
+    "high": "0.00000614",
+    "low": "0.00000476",
+    "volume": "88561.90257633",
+    "quoteVolume": "0.47544000",
+    "percentChange": "-3.24",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "DAI-BTC",
+    "high": "0.00005745",
+    "low": "0.00005358",
+    "volume": "54105.14662909",
+    "quoteVolume": "2.96476559",
+    "percentChange": "0.44",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "DAI-ETH",
+    "high": "0.00193390",
+    "low": "0.00172000",
+    "volume": "13696.65000537",
+    "quoteVolume": "24.58395445",
+    "percentChange": "-7.40",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "DAI-USD",
+    "high": "1.01099997",
+    "low": "1.00000052",
+    "volume": "11495.12394787",
+    "quoteVolume": "11515.87836418",
+    "percentChange": "0.00",
+    "updatedAt": "2020-11-23T06:15:04.84Z"
+}, {
+    "symbol": "DAI-USDT",
+    "high": "1.00987402",
+    "low": "1.00002308",
+    "volume": "19273.37265413",
+    "quoteVolume": "19343.12326749",
+    "percentChange": "0.00",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "DASH-BTC",
+    "high": "0.00504371",
+    "low": "0.00482919",
+    "volume": "547.22360593",
+    "quoteVolume": "2.69553235",
+    "percentChange": "2.13",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "DASH-ETH",
+    "high": "0.16905333",
+    "low": "0.15786755",
+    "volume": "49.40223693",
+    "quoteVolume": "8.11291194",
+    "percentChange": "-3.67",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "DASH-USD",
+    "high": "93.13800000",
+    "low": "85.64270262",
+    "volume": "679.55482739",
+    "quoteVolume": "61216.68932938",
+    "percentChange": "3.47",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "DASH-USDT",
+    "high": "93.02350591",
+    "low": "85.58212792",
+    "volume": "306.57750066",
+    "quoteVolume": "27761.72646858",
+    "percentChange": "3.92",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "DAWN-BTC",
+    "high": "0.00000972",
+    "low": "0.00000924",
+    "volume": "432.24289335",
+    "quoteVolume": "0.00416928",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:14:49.883Z"
+}, {
+    "symbol": "DCR-BTC",
+    "high": "0.00123831",
+    "low": "0.00116137",
+    "volume": "3810.18244132",
+    "quoteVolume": "4.55290381",
+    "percentChange": "0.67",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "DCR-USD",
+    "high": "22.65800000",
+    "low": "20.81000000",
+    "volume": "261.83368822",
+    "quoteVolume": "5736.70423446",
+    "percentChange": "-0.10",
+    "updatedAt": "2020-11-23T06:24:05.11Z"
+}, {
+    "symbol": "DCR-USDT",
+    "high": "22.65917832",
+    "low": "20.73735676",
+    "volume": "584.72751742",
+    "quoteVolume": "12765.87608957",
+    "percentChange": "1.34",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "DCT-BTC",
+    "high": "0.00000023",
+    "low": "0.00000022",
+    "volume": "48170.58143511",
+    "quoteVolume": "0.01062001",
+    "percentChange": "4.55",
+    "updatedAt": "2020-11-21T20:01:02.987Z"
+}, {
+    "symbol": "DENT-BTC",
+    "high": "0.00000002",
+    "low": "0.00000001",
+    "volume": "69611536.77079777",
+    "quoteVolume": "0.69641505",
+    "percentChange": "0",
+    "updatedAt": "2020-11-20T11:05:02.25Z"
+}, {
+    "symbol": "DEP-BTC",
+    "high": "0.00000030",
+    "low": "0.00000028",
+    "volume": "6043604.89049341",
+    "quoteVolume": "1.70145852",
+    "percentChange": "7.14",
+    "updatedAt": "2020-11-23T06:19:45.17Z"
+}, {
+    "symbol": "DEP-USDT",
+    "high": "0.00554000",
+    "low": "0.00504000",
+    "volume": "15958743.49046372",
+    "quoteVolume": "82643.61642642",
+    "percentChange": "8.01",
+    "updatedAt": "2020-11-23T06:24:05.11Z"
+}, {
+    "symbol": "DFI-BTC",
+    "high": "0.00001790",
+    "low": "0.00001615",
+    "volume": "20948.44038099",
+    "quoteVolume": "0.35968124",
+    "percentChange": "4.87",
+    "updatedAt": "2020-11-23T06:24:45.097Z"
+}, {
+    "symbol": "DFI-USDT",
+    "high": "0.31905000",
+    "low": "0.29305000",
+    "volume": "17326.92526755",
+    "quoteVolume": "5265.12865097",
+    "percentChange": "6.67",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "DGB-BTC",
+    "high": "0.00000123",
+    "low": "0.00000115",
+    "volume": "25003343.93744218",
+    "quoteVolume": "29.77049394",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:24:05.11Z"
+}, {
+    "symbol": "DGB-ETH",
+    "high": "0.00004203",
+    "low": "0.00003777",
+    "volume": "3133411.27043623",
+    "quoteVolume": "123.73513635",
+    "percentChange": "-6.88",
+    "updatedAt": "2020-11-23T06:24:30.067Z"
+}, {
+    "symbol": "DGB-USD",
+    "high": "0.02260000",
+    "low": "0.02085000",
+    "volume": "6316707.06312457",
+    "quoteVolume": "138269.74442764",
+    "percentChange": "-1.04",
+    "updatedAt": "2020-11-23T06:24:40.067Z"
+}, {
+    "symbol": "DGB-USDT",
+    "high": "0.02263835",
+    "low": "0.02098002",
+    "volume": "4526421.73250942",
+    "quoteVolume": "99249.70018461",
+    "percentChange": "-0.91",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "DMT-BTC",
+    "high": "0.00000886",
+    "low": "0.00000757",
+    "volume": "4791.95420818",
+    "quoteVolume": "0.03865444",
+    "percentChange": "16.89",
+    "updatedAt": "2020-11-23T06:21:00.113Z"
+}, {
+    "symbol": "DMT-ETH",
+    "high": "0.00029400",
+    "low": "0.00025307",
+    "volume": "1023.73566282",
+    "quoteVolume": "0.27027290",
+    "percentChange": "16.17",
+    "updatedAt": "2020-11-23T06:24:35.16Z"
+}, {
+    "symbol": "DNA-BTC",
+    "high": "0.00000011",
+    "low": "0.00000011",
+    "volume": "34323.70295455",
+    "quoteVolume": "0.00377560",
+    "percentChange": "0",
+    "updatedAt": "2020-11-22T20:11:50.887Z"
+}, {
+    "symbol": "DNA-USDT",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-22T18:22:43.243Z"
+}, {
+    "symbol": "DNT-BTC",
+    "high": "0.00000278",
+    "low": "0.00000220",
+    "volume": "525713.00224875",
+    "quoteVolume": "1.33410231",
+    "percentChange": "8.61",
+    "updatedAt": "2020-11-23T06:12:24.843Z"
+}, {
+    "symbol": "DOGE-BTC",
+    "high": "0.00000020",
+    "low": "0.00000017",
+    "volume": "49464143.36591485",
+    "quoteVolume": "9.11462170",
+    "percentChange": "5.56",
+    "updatedAt": "2020-11-23T06:22:05.007Z"
+}, {
+    "symbol": "DOGE-ETH",
+    "high": "0.00000684",
+    "low": "0.00000575",
+    "volume": "8088470.10816243",
+    "quoteVolume": "50.56006055",
+    "percentChange": "-9.31",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "DOGE-USD",
+    "high": "0.00367000",
+    "low": "0.00325000",
+    "volume": "4030453.87639701",
+    "quoteVolume": "13780.56386861",
+    "percentChange": "-8.99",
+    "updatedAt": "2020-11-23T06:23:05.17Z"
+}, {
+    "symbol": "DOGE-USDT",
+    "high": "0.00352541",
+    "low": "0.00304649",
+    "volume": "9126422.23684049",
+    "quoteVolume": "31006.39150417",
+    "percentChange": "-2.23",
+    "updatedAt": "2020-11-23T06:23:05.17Z"
+}, {
+    "symbol": "DOT-BTC",
+    "high": "0.00031097",
+    "low": "0.00029382",
+    "volume": "8035.70375764",
+    "quoteVolume": "2.42056164",
+    "percentChange": "4.90",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "DOT-ETH",
+    "high": "0.01032997",
+    "low": "0.00965000",
+    "volume": "237.24222310",
+    "quoteVolume": "2.34087815",
+    "percentChange": "-3.98",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "DOT-EUR",
+    "high": "4.98000000",
+    "low": "4.98000000",
+    "volume": "1.00063326",
+    "quoteVolume": "4.98315363",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:24:40.067Z"
+}, {
+    "symbol": "DOT-USD",
+    "high": "6.40000000",
+    "low": "5.20100000",
+    "volume": "3453.88336358",
+    "quoteVolume": "18592.68148602",
+    "percentChange": "2.78",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "DOT-USDT",
+    "high": "5.71100000",
+    "low": "5.20100000",
+    "volume": "895.88341954",
+    "quoteVolume": "4904.02395543",
+    "percentChange": "-2.07",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "DRGN-BTC",
+    "high": "0.00000250",
+    "low": "0.00000217",
+    "volume": "191522.45727961",
+    "quoteVolume": "0.43050615",
+    "percentChange": "6.88",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "DTA-BTC",
+    "high": "0.00000002",
+    "low": "0.00000002",
+    "volume": "200000.00000000",
+    "quoteVolume": "0.00400000",
+    "percentChange": "0",
+    "updatedAt": "2020-11-22T21:36:52.63Z"
+}, {
+    "symbol": "DUCATO-BTC",
+    "high": "0.00085498",
+    "low": "0.00075228",
+    "volume": "109.86967886",
+    "quoteVolume": "0.09155336",
+    "percentChange": "8.08",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "DUCATO-USDT",
+    "high": "15.85100000",
+    "low": "15.85100000",
+    "volume": "0.41688455",
+    "quoteVolume": "6.60803700",
+    "percentChange": "0",
+    "updatedAt": "2020-11-21T15:44:01.4Z"
+}, {
+    "symbol": "DUSK-BTC",
+    "high": "0.00000317",
+    "low": "0.00000252",
+    "volume": "123766.36911102",
+    "quoteVolume": "0.36137321",
+    "percentChange": "15.08",
+    "updatedAt": "2020-11-23T06:21:20.053Z"
+}, {
+    "symbol": "ECELL-BTC",
+    "high": "0.00000227",
+    "low": "0.00000220",
+    "volume": "482324.22546157",
+    "quoteVolume": "1.07535980",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:24:35.16Z"
+}, {
+    "symbol": "ECELL-USDT",
+    "high": "0.04247000",
+    "low": "0.03970000",
+    "volume": "270703.66554369",
+    "quoteVolume": "11091.61015122",
+    "percentChange": "-3.84",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ECOC-BTC",
+    "high": "0.00005179",
+    "low": "0.00004813",
+    "volume": "1133.15555411",
+    "quoteVolume": "0.05661120",
+    "percentChange": "-1.82",
+    "updatedAt": "2020-11-23T06:24:25.127Z"
+}, {
+    "symbol": "ECOC-USDT",
+    "high": "0.93100000",
+    "low": "0.90000000",
+    "volume": "1525.10000000",
+    "quoteVolume": "1398.67751000",
+    "percentChange": "-2.15",
+    "updatedAt": "2020-11-23T06:17:04.957Z"
+}, {
+    "symbol": "EDG-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-22T11:29:32.537Z"
+}, {
+    "symbol": "EDR-BTC",
+    "high": "0.00000031",
+    "low": "0.00000025",
+    "volume": "166193.69880725",
+    "quoteVolume": "0.04746748",
+    "percentChange": "-3.45",
+    "updatedAt": "2020-11-23T06:09:49.69Z"
+}, {
+    "symbol": "ELA-BTC",
+    "high": "0.00009457",
+    "low": "0.00008511",
+    "volume": "2353.72384257",
+    "quoteVolume": "0.20686780",
+    "percentChange": "-1.93",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ELAMA-BTC",
+    "high": "0.00000085",
+    "low": "0.00000062",
+    "volume": "298142.87625272",
+    "quoteVolume": "0.20879897",
+    "percentChange": "7.46",
+    "updatedAt": "2020-11-23T06:22:25.04Z"
+}, {
+    "symbol": "ELA-USDT",
+    "high": "1.72600000",
+    "low": "1.52200000",
+    "volume": "2249.52225528",
+    "quoteVolume": "3615.69013284",
+    "percentChange": "0.68",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ELF-BTC",
+    "high": "0.00000504",
+    "low": "0.00000503",
+    "volume": "17809.00000000",
+    "quoteVolume": "0.08961681",
+    "percentChange": "0.20",
+    "updatedAt": "2020-11-21T14:43:04.803Z"
+}, {
+    "symbol": "EMC2-BTC",
+    "high": "0.00000368",
+    "low": "0.00000292",
+    "volume": "308347.06777347",
+    "quoteVolume": "1.02200536",
+    "percentChange": "1.57",
+    "updatedAt": "2020-11-23T06:24:30.067Z"
+}, {
+    "symbol": "ENG-BTC",
+    "high": "0.00002611",
+    "low": "0.00002316",
+    "volume": "8264.17491139",
+    "quoteVolume": "0.20320795",
+    "percentChange": "-4.98",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ENG-ETH",
+    "high": "0.00087762",
+    "low": "0.00072174",
+    "volume": "3298.71411823",
+    "quoteVolume": "2.58835424",
+    "percentChange": "-17.76",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ENJ-BTC",
+    "high": "0.00000802",
+    "low": "0.00000762",
+    "volume": "229723.56373276",
+    "quoteVolume": "1.80301286",
+    "percentChange": "2.19",
+    "updatedAt": "2020-11-23T06:24:05.11Z"
+}, {
+    "symbol": "ENJ-ETH",
+    "high": "0.00026820",
+    "low": "0.00025622",
+    "volume": "18785.60061099",
+    "quoteVolume": "4.91147247",
+    "percentChange": "-2.78",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ENJ-USD",
+    "high": "0.14800000",
+    "low": "0.13839000",
+    "volume": "20261.35691361",
+    "quoteVolume": "2880.68034848",
+    "percentChange": "3.24",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ENJ-USDT",
+    "high": "0.14919016",
+    "low": "0.13705521",
+    "volume": "64289.42396186",
+    "quoteVolume": "9179.52881966",
+    "percentChange": "0.58",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "EOS-BTC",
+    "high": "0.00017160",
+    "low": "0.00016311",
+    "volume": "55804.52593669",
+    "quoteVolume": "9.35392837",
+    "percentChange": "1.46",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "EOS-ETH",
+    "high": "0.00578616",
+    "low": "0.00535720",
+    "volume": "10171.72608026",
+    "quoteVolume": "56.64270929",
+    "percentChange": "-5.28",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "EOS-USD",
+    "high": "3.17000000",
+    "low": "2.91074243",
+    "volume": "40061.98048084",
+    "quoteVolume": "122942.04099750",
+    "percentChange": "3.35",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "EOS-USDT",
+    "high": "3.20000000",
+    "low": "2.91260003",
+    "volume": "38562.71675623",
+    "quoteVolume": "118470.48896720",
+    "percentChange": "2.88",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ETC-BTC",
+    "high": "0.00034604",
+    "low": "0.00032318",
+    "volume": "13533.96202193",
+    "quoteVolume": "4.50166015",
+    "percentChange": "-0.87",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ETC-ETH",
+    "high": "0.01176630",
+    "low": "0.01055286",
+    "volume": "3078.92341812",
+    "quoteVolume": "34.19158497",
+    "percentChange": "-6.65",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ETC-USD",
+    "high": "6.34709000",
+    "low": "5.71200000",
+    "volume": "6959.41342747",
+    "quoteVolume": "42421.28175439",
+    "percentChange": "1.36",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ETC-USDT",
+    "high": "6.31005873",
+    "low": "5.73300000",
+    "volume": "10485.85463327",
+    "quoteVolume": "62639.85601449",
+    "percentChange": "0.04",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ETHBEAR-USD",
+    "high": "0.01475000",
+    "low": "0.01475000",
+    "volume": "488.26201314",
+    "quoteVolume": "7.20186469",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:24:30.067Z"
+}, {
+    "symbol": "ETHBEAR-USDT",
+    "high": "0.01420000",
+    "low": "0.01301000",
+    "volume": "287266.05986189",
+    "quoteVolume": "3892.20210179",
+    "percentChange": "-8.38",
+    "updatedAt": "2020-11-23T06:24:40.067Z"
+}, {
+    "symbol": "ETH-BTC",
+    "high": "0.03168292",
+    "low": "0.02898008",
+    "volume": "10262.95217190",
+    "quoteVolume": "310.05424622",
+    "percentChange": "7.18",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ETHBULL-USD",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "ETHBULL-USDT",
+    "high": "1129.58100000",
+    "low": "993.32700000",
+    "volume": "1.11538614",
+    "quoteVolume": "1218.22605049",
+    "percentChange": "13.26",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ETH-EUR",
+    "high": "494.56000000",
+    "low": "428.81500000",
+    "volume": "689.13725040",
+    "quoteVolume": "318690.09991286",
+    "percentChange": "5.46",
+    "updatedAt": "2020-11-23T06:24:25.127Z"
+}, {
+    "symbol": "ETH-USD",
+    "high": "587.74100000",
+    "low": "512.00100000",
+    "volume": "14830.83305458",
+    "quoteVolume": "8212044.21785960",
+    "percentChange": "6.74",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ETH-USDT",
+    "high": "586.00000000",
+    "low": "510.00000000",
+    "volume": "7098.63156985",
+    "quoteVolume": "3916818.89206506",
+    "percentChange": "6.35",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "EXCL-BTC",
+    "high": "0.00000339",
+    "low": "0.00000325",
+    "volume": "15237.35039509",
+    "quoteVolume": "0.05083567",
+    "percentChange": "-2.10",
+    "updatedAt": "2020-11-23T06:22:15.057Z"
+}, {
+    "symbol": "EXE-BTC",
+    "high": "0.00000032",
+    "low": "0.00000027",
+    "volume": "103058.74038977",
+    "quoteVolume": "0.02986852",
+    "percentChange": "-3.12",
+    "updatedAt": "2020-11-23T06:05:44.567Z"
+}, {
+    "symbol": "EXE-USDT",
+    "high": "0.00600000",
+    "low": "0.00520000",
+    "volume": "22999.84711827",
+    "quoteVolume": "122.58874706",
+    "percentChange": "12.36",
+    "updatedAt": "2020-11-23T06:23:55.047Z"
+}, {
+    "symbol": "EXP-BTC",
+    "high": "0.00000234",
+    "low": "0.00000213",
+    "volume": "42446.36911146",
+    "quoteVolume": "0.09409687",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:19:05.027Z"
+}, {
+    "symbol": "FCT2-BTC",
+    "high": "0.00000251",
+    "low": "0.00000231",
+    "volume": "74982.86411311",
+    "quoteVolume": "0.18016786",
+    "percentChange": "-0.42",
+    "updatedAt": "2020-11-23T06:23:10.09Z"
+}, {
+    "symbol": "FCT-BTC",
+    "high": "0.00005707",
+    "low": "0.00005044",
+    "volume": "59812.42015929",
+    "quoteVolume": "3.27726837",
+    "percentChange": "-1.83",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "FIL-BTC",
+    "high": "0.00199441",
+    "low": "0.00150018",
+    "volume": "111.22720880",
+    "quoteVolume": "0.17755258",
+    "percentChange": "-5.45",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "FIL-ETH",
+    "high": "0.05987838",
+    "low": "0.05050446",
+    "volume": "28.25365216",
+    "quoteVolume": "1.55229382",
+    "percentChange": "-8.92",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "FIL-USD",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "FIL-USDT",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:05:19.533Z"
+}, {
+    "symbol": "FLETA-BTC",
+    "high": "0.00000025",
+    "low": "0.00000024",
+    "volume": "8065.10164888",
+    "quoteVolume": "0.00196921",
+    "percentChange": "4.17",
+    "updatedAt": "2020-11-23T06:09:29.613Z"
+}, {
+    "symbol": "FLO-BTC",
+    "high": "0.00000103",
+    "low": "0.00000086",
+    "volume": "552357.56450270",
+    "quoteVolume": "0.52337035",
+    "percentChange": "-5.26",
+    "updatedAt": "2020-11-23T06:10:59.743Z"
+}, {
+    "symbol": "FME-BTC",
+    "high": "0.00000005",
+    "low": "0.00000005",
+    "volume": "31462.74600000",
+    "quoteVolume": "0.00157313",
+    "percentChange": "0",
+    "updatedAt": "2020-11-22T17:14:01.457Z"
+}, {
+    "symbol": "FME-USDT",
+    "high": "0.00070000",
+    "low": "0.00059000",
+    "volume": "513184.33511823",
+    "quoteVolume": "334.81484608",
+    "percentChange": "-15.71",
+    "updatedAt": "2020-11-23T06:04:54.513Z"
+}, {
+    "symbol": "FNB-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T04:37:17.337Z"
+}, {
+    "symbol": "FOR-BTC",
+    "high": "0.00000130",
+    "low": "0.00000099",
+    "volume": "15094.64595428",
+    "quoteVolume": "0.01771802",
+    "percentChange": "31.31",
+    "updatedAt": "2020-11-23T06:13:04.923Z"
+}, {
+    "symbol": "FRSP-BTC",
+    "high": "0.00000004",
+    "low": "0.00000004",
+    "volume": "31400.00000000",
+    "quoteVolume": "0.00125600",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T03:54:01.483Z"
+}, {
+    "symbol": "FSN-BTC",
+    "high": "0.00001409",
+    "low": "0.00001301",
+    "volume": "470.30823258",
+    "quoteVolume": "0.00622726",
+    "percentChange": "-0.08",
+    "updatedAt": "2020-11-23T05:37:33.79Z"
+}, {
+    "symbol": "FTC-BTC",
+    "high": "0.00000074",
+    "low": "0.00000062",
+    "volume": "948563.27184991",
+    "quoteVolume": "0.64114817",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:23:45.047Z"
+}, {
+    "symbol": "FX-BTC",
+    "high": "0.00000364",
+    "low": "0.00000332",
+    "volume": "19334.61792965",
+    "quoteVolume": "0.06734729",
+    "percentChange": "4.14",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "FX-ETH",
+    "high": "0.00011750",
+    "low": "0.00011300",
+    "volume": "403.00000000",
+    "quoteVolume": "0.04668650",
+    "percentChange": "-3.83",
+    "updatedAt": "2020-11-23T05:53:04.12Z"
+}, {
+    "symbol": "GAME-BTC",
+    "high": "0.00000316",
+    "low": "0.00000295",
+    "volume": "159966.14395873",
+    "quoteVolume": "0.48640210",
+    "percentChange": "-4.82",
+    "updatedAt": "2020-11-23T06:23:05.17Z"
+}, {
+    "symbol": "GBYTE-BTC",
+    "high": "0.00122531",
+    "low": "0.00119000",
+    "volume": "174.49024281",
+    "quoteVolume": "0.20969307",
+    "percentChange": "2.02",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "GEO-BTC",
+    "high": "0.00001124",
+    "low": "0.00000994",
+    "volume": "1098.21931618",
+    "quoteVolume": "0.01136065",
+    "percentChange": "0.20",
+    "updatedAt": "2020-11-23T06:23:35.077Z"
+}, {
+    "symbol": "GLEEC-BTC",
+    "high": "0.00001153",
+    "low": "0.00001150",
+    "volume": "484.36501567",
+    "quoteVolume": "0.00557539",
+    "percentChange": "-0.26",
+    "updatedAt": "2020-11-23T05:18:23.353Z"
+}, {
+    "symbol": "GNO-BTC",
+    "high": "0.00379866",
+    "low": "0.00343911",
+    "volume": "96.41785311",
+    "quoteVolume": "0.35080389",
+    "percentChange": "9.63",
+    "updatedAt": "2020-11-23T06:18:05.053Z"
+}, {
+    "symbol": "GNO-ETH",
+    "high": "0.12285615",
+    "low": "0.11509905",
+    "volume": "183.99826690",
+    "quoteVolume": "21.86337499",
+    "percentChange": "2.76",
+    "updatedAt": "2020-11-23T06:14:19.85Z"
+}, {
+    "symbol": "GNT-BTC",
+    "high": "0.00000628",
+    "low": "0.00000587",
+    "volume": "137451.23351935",
+    "quoteVolume": "0.83349189",
+    "percentChange": "2.17",
+    "updatedAt": "2020-11-23T06:24:20.11Z"
+}, {
+    "symbol": "GNT-ETH",
+    "high": "0.00021663",
+    "low": "0.00019060",
+    "volume": "70334.31659979",
+    "quoteVolume": "14.15305847",
+    "percentChange": "-2.29",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "GO-BTC",
+    "high": "0.00000042",
+    "low": "0.00000035",
+    "volume": "287248.90382087",
+    "quoteVolume": "0.10954261",
+    "percentChange": "5.41",
+    "updatedAt": "2020-11-23T06:16:50.173Z"
+}, {
+    "symbol": "GRIN-BTC",
+    "high": "0.00002183",
+    "low": "0.00002136",
+    "volume": "3294.70313318",
+    "quoteVolume": "0.07052975",
+    "percentChange": "-2.06",
+    "updatedAt": "2020-11-23T06:15:04.84Z"
+}, {
+    "symbol": "GRIN-USDT",
+    "high": "0.40000000",
+    "low": "0.36370738",
+    "volume": "1788.71391179",
+    "quoteVolume": "678.18499583",
+    "percentChange": "-9.07",
+    "updatedAt": "2020-11-23T06:24:35.16Z"
+}, {
+    "symbol": "GRS-BTC",
+    "high": "0.00001225",
+    "low": "0.00001086",
+    "volume": "31543.19317303",
+    "quoteVolume": "0.36393493",
+    "percentChange": "5.02",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "GST-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-19T18:51:28.003Z"
+}, {
+    "symbol": "GST-USDT",
+    "high": "0.30003000",
+    "low": "0.29876000",
+    "volume": "18474.35738924",
+    "quoteVolume": "5522.43920646",
+    "percentChange": "0.02",
+    "updatedAt": "2020-11-23T05:40:43.803Z"
+}, {
+    "symbol": "GTO-BTC",
+    "high": "0.00000055",
+    "low": "0.00000055",
+    "volume": "1148.00000000",
+    "quoteVolume": "0.00063140",
+    "percentChange": "0",
+    "updatedAt": "2020-11-22T13:57:01.79Z"
+}, {
+    "symbol": "GUP-BTC",
+    "high": "0.00000002",
+    "low": "0.00000002",
+    "volume": "1027.77179497",
+    "quoteVolume": "0.00002055",
+    "percentChange": "0",
+    "updatedAt": "2020-11-21T20:55:04.01Z"
+}, {
+    "symbol": "GXC-BTC",
+    "high": "0.00002113",
+    "low": "0.00002075",
+    "volume": "1718.33059846",
+    "quoteVolume": "0.03579184",
+    "percentChange": "-0.19",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "GXC-USDT",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T05:57:29.297Z"
+}, {
+    "symbol": "HBAR-BTC",
+    "high": "0.00000188",
+    "low": "0.00000177",
+    "volume": "1042298.43631561",
+    "quoteVolume": "1.88700047",
+    "percentChange": "3.37",
+    "updatedAt": "2020-11-23T06:12:34.78Z"
+}, {
+    "symbol": "HBAR-ETH",
+    "high": "0.00006169",
+    "low": "0.00005776",
+    "volume": "220689.11809141",
+    "quoteVolume": "13.26146944",
+    "percentChange": "-2.93",
+    "updatedAt": "2020-11-23T06:24:45.097Z"
+}, {
+    "symbol": "HBAR-USD",
+    "high": "0.03490000",
+    "low": "0.03147915",
+    "volume": "2787083.76184240",
+    "quoteVolume": "92995.76674226",
+    "percentChange": "3.09",
+    "updatedAt": "2020-11-23T06:24:20.11Z"
+}, {
+    "symbol": "HBAR-USDT",
+    "high": "0.03490800",
+    "low": "0.03149446",
+    "volume": "1589078.37015792",
+    "quoteVolume": "53019.31322914",
+    "percentChange": "2.18",
+    "updatedAt": "2020-11-23T06:24:05.11Z"
+}, {
+    "symbol": "HBD-BTC",
+    "high": "0.00005378",
+    "low": "0.00005140",
+    "volume": "1019.06959454",
+    "quoteVolume": "0.05322547",
+    "percentChange": "-3.11",
+    "updatedAt": "2020-11-23T06:24:30.067Z"
+}, {
+    "symbol": "HDAC-BTC",
+    "high": "0.00000084",
+    "low": "0.00000061",
+    "volume": "9105.00000000",
+    "quoteVolume": "0.00651320",
+    "percentChange": "-8.96",
+    "updatedAt": "2020-11-23T06:21:25.1Z"
+}, {
+    "symbol": "HDAO-BTC",
+    "high": "0.00000050",
+    "low": "0.00000049",
+    "volume": "159725.97107382",
+    "quoteVolume": "0.07967960",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T01:35:23.343Z"
+}, {
+    "symbol": "HDAO-USDT",
+    "high": "0.00921000",
+    "low": "0.00907000",
+    "volume": "141294.45442243",
+    "quoteVolume": "1296.46329416",
+    "percentChange": "-1.41",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "HEDG-BTC",
+    "high": "0.00003924",
+    "low": "0.00003473",
+    "volume": "29567.97994132",
+    "quoteVolume": "1.11892679",
+    "percentChange": "-7.12",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "HIVE-BTC",
+    "high": "0.00000695",
+    "low": "0.00000671",
+    "volume": "63583.33953476",
+    "quoteVolume": "0.43319715",
+    "percentChange": "0.15",
+    "updatedAt": "2020-11-23T06:23:50.017Z"
+}, {
+    "symbol": "HIVE-USD",
+    "high": "0.12680000",
+    "low": "0.12114000",
+    "volume": "10853.30377669",
+    "quoteVolume": "1354.29238643",
+    "percentChange": "0.80",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "HIVE-USDT",
+    "high": "0.12827000",
+    "low": "0.12000000",
+    "volume": "16181.56892926",
+    "quoteVolume": "2015.90605456",
+    "percentChange": "3.02",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "HMQ-BTC",
+    "high": "0.00000035",
+    "low": "0.00000030",
+    "volume": "100078.83651301",
+    "quoteVolume": "0.03159597",
+    "percentChange": "12.90",
+    "updatedAt": "2020-11-23T04:59:02.943Z"
+}, {
+    "symbol": "HNS-BTC",
+    "high": "0.00000532",
+    "low": "0.00000510",
+    "volume": "1999.85414423",
+    "quoteVolume": "0.01040057",
+    "percentChange": "4.31",
+    "updatedAt": "2020-11-23T06:13:24.783Z"
+}, {
+    "symbol": "HNS-ETH",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "HNS-USDT",
+    "high": "0.10500000",
+    "low": "0.10500000",
+    "volume": "1484.20764424",
+    "quoteVolume": "155.84180257",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "HXRO-BTC",
+    "high": "0.00001084",
+    "low": "0.00001048",
+    "volume": "11647.02487030",
+    "quoteVolume": "0.12557999",
+    "percentChange": "-0.66",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "HXRO-USDT",
+    "high": "0.19286741",
+    "low": "0.19109017",
+    "volume": "12947.62210863",
+    "quoteVolume": "2480.28492553",
+    "percentChange": "0.54",
+    "updatedAt": "2020-11-23T05:57:49.283Z"
+}, {
+    "symbol": "HYC-BTC",
+    "high": "0.00000008",
+    "low": "0.00000008",
+    "volume": "7225.20612137",
+    "quoteVolume": "0.00057801",
+    "percentChange": "0",
+    "updatedAt": "2020-11-21T14:14:04.07Z"
+}, {
+    "symbol": "HYDRO-BTC",
+    "high": "0.00000002",
+    "low": "0.00000001",
+    "volume": "15275134.83889961",
+    "quoteVolume": "0.15430699",
+    "percentChange": "100",
+    "updatedAt": "2020-11-23T04:07:01.57Z"
+}, {
+    "symbol": "ICX-BTC",
+    "high": "0.00002161",
+    "low": "0.00002076",
+    "volume": "24707.57321406",
+    "quoteVolume": "0.52199277",
+    "percentChange": "2.12",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "IGNIS-BTC",
+    "high": "0.00000134",
+    "low": "0.00000128",
+    "volume": "359926.48820227",
+    "quoteVolume": "0.46970898",
+    "percentChange": "0.78",
+    "updatedAt": "2020-11-23T06:23:30.14Z"
+}, {
+    "symbol": "IHT-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-21T20:29:53.453Z"
+}, {
+    "symbol": "INCNT-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-22T00:34:27.207Z"
+}, {
+    "symbol": "INSTAR-BTC",
+    "high": "0.00000258",
+    "low": "0.00000249",
+    "volume": "23765.60000000",
+    "quoteVolume": "0.06044690",
+    "percentChange": "3.61",
+    "updatedAt": "2020-11-23T06:24:25.127Z"
+}, {
+    "symbol": "INX-BTC",
+    "high": "0.00000074",
+    "low": "0.00000074",
+    "volume": "1668.58475000",
+    "quoteVolume": "0.00123475",
+    "percentChange": "0",
+    "updatedAt": "2020-11-22T15:27:59.06Z"
+}, {
+    "symbol": "INX-USDT",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:24:15.05Z"
+}, {
+    "symbol": "IOC-BTC",
+    "high": "0.00000395",
+    "low": "0.00000324",
+    "volume": "26731.87396420",
+    "quoteVolume": "0.09648041",
+    "percentChange": "5.17",
+    "updatedAt": "2020-11-23T06:22:45.057Z"
+}, {
+    "symbol": "ION-BTC",
+    "high": "0.00000075",
+    "low": "0.00000075",
+    "volume": "4041.21548147",
+    "quoteVolume": "0.00303091",
+    "percentChange": "0",
+    "updatedAt": "2020-11-21T20:47:03.79Z"
+}, {
+    "symbol": "IOST-BTC",
+    "high": "0.00000029",
+    "low": "0.00000028",
+    "volume": "3249603.61279929",
+    "quoteVolume": "0.93087032",
+    "percentChange": "3.57",
+    "updatedAt": "2020-11-23T05:57:54.203Z"
+}, {
+    "symbol": "IOTA-BTC",
+    "high": "0.00001800",
+    "low": "0.00001600",
+    "volume": "47765.17509055",
+    "quoteVolume": "0.82377279",
+    "percentChange": "12.50",
+    "updatedAt": "2020-11-23T06:24:25.127Z"
+}, {
+    "symbol": "IOTX-BTC",
+    "high": "0.00000047",
+    "low": "0.00000046",
+    "volume": "496714.46415678",
+    "quoteVolume": "0.23258445",
+    "percentChange": "2.17",
+    "updatedAt": "2020-11-23T03:47:26.393Z"
+}, {
+    "symbol": "IRIS-BTC",
+    "high": "0.00000327",
+    "low": "0.00000304",
+    "volume": "15242.54437806",
+    "quoteVolume": "0.04889903",
+    "percentChange": "-2.46",
+    "updatedAt": "2020-11-23T06:07:09.54Z"
+}, {
+    "symbol": "IRIS-USDT",
+    "high": "0.05851000",
+    "low": "0.05710000",
+    "volume": "21595.20903254",
+    "quoteVolume": "1235.32304968",
+    "percentChange": "-2.39",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "JNT-BTC",
+    "high": "0.00000086",
+    "low": "0.00000071",
+    "volume": "417063.07682455",
+    "quoteVolume": "0.33817735",
+    "percentChange": "-8.97",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "KAI-BTC",
+    "high": "0.00000126",
+    "low": "0.00000090",
+    "volume": "131980.34895339",
+    "quoteVolume": "0.13174146",
+    "percentChange": "11.11",
+    "updatedAt": "2020-11-23T03:25:00.77Z"
+}, {
+    "symbol": "KAI-USDT",
+    "high": "0.01101000",
+    "low": "0.01101000",
+    "volume": "13918.33480201",
+    "quoteVolume": "153.24086617",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:24:40.067Z"
+}, {
+    "symbol": "KDA-BTC",
+    "high": "0.00001125",
+    "low": "0.00001003",
+    "volume": "25993.79570134",
+    "quoteVolume": "0.27906052",
+    "percentChange": "1.27",
+    "updatedAt": "2020-11-23T06:24:30.067Z"
+}, {
+    "symbol": "KDAG-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:24:15.05Z"
+}, {
+    "symbol": "KDAG-USDT",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-22T22:48:19.147Z"
+}, {
+    "symbol": "KDA-USDT",
+    "high": "0.21500000",
+    "low": "0.18646000",
+    "volume": "28816.59082354",
+    "quoteVolume": "5694.23933458",
+    "percentChange": "1.45",
+    "updatedAt": "2020-11-23T06:24:35.16Z"
+}, {
+    "symbol": "KLAY-BTC",
+    "high": "0.00001906",
+    "low": "0.00001712",
+    "volume": "944.73311290",
+    "quoteVolume": "0.01650961",
+    "percentChange": "-10.07",
+    "updatedAt": "2020-11-23T06:22:35.103Z"
+}, {
+    "symbol": "KLAY-USDT",
+    "high": "0.44407000",
+    "low": "0.29031000",
+    "volume": "1916.45898295",
+    "quoteVolume": "726.16804275",
+    "percentChange": "23.35",
+    "updatedAt": "2020-11-23T06:24:30.067Z"
+}, {
+    "symbol": "KLV-BTC",
+    "high": "0.00000031",
+    "low": "0.00000030",
+    "volume": "1653662.29697515",
+    "quoteVolume": "0.49620609",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:15:04.84Z"
+}, {
+    "symbol": "KLV-USDT",
+    "high": "0.00557000",
+    "low": "0.00540000",
+    "volume": "666050.01758938",
+    "quoteVolume": "3665.11334605",
+    "percentChange": "-2.33",
+    "updatedAt": "2020-11-23T06:24:35.16Z"
+}, {
+    "symbol": "KMD-BTC",
+    "high": "0.00002720",
+    "low": "0.00002607",
+    "volume": "42319.86843932",
+    "quoteVolume": "1.13079409",
+    "percentChange": "-0.11",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "KMD-USD",
+    "high": "0.50884000",
+    "low": "0.47617000",
+    "volume": "12481.02766600",
+    "quoteVolume": "6074.57106830",
+    "percentChange": "-1.66",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "KNC-BTC",
+    "high": "0.00053679",
+    "low": "0.00005436",
+    "volume": "41.34016296",
+    "quoteVolume": "0.01038115",
+    "percentChange": "756.12",
+    "updatedAt": "2020-11-23T06:13:29.863Z"
+}, {
+    "symbol": "KNC-ETH",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:24:35.16Z"
+}, {
+    "symbol": "KNC-EUR",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-22T16:10:04.91Z"
+}, {
+    "symbol": "KNC-USD",
+    "high": "2.50118000",
+    "low": "0.93919000",
+    "volume": "103.85924850",
+    "quoteVolume": "119.58973759",
+    "percentChange": "22.45",
+    "updatedAt": "2020-11-23T06:23:50.017Z"
+}, {
+    "symbol": "KNC-USDT",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:23:15.06Z"
+}, {
+    "symbol": "KRT-BTC",
+    "high": "0.00000005",
+    "low": "0.00000005",
+    "volume": "46254.76128000",
+    "quoteVolume": "0.00231273",
+    "percentChange": "0",
+    "updatedAt": "2020-11-22T20:32:01.343Z"
+}, {
+    "symbol": "KRT-USDT",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T03:47:11.613Z"
+}, {
+    "symbol": "KSM-BTC",
+    "high": "0.00221519",
+    "low": "0.00196562",
+    "volume": "161.48246100",
+    "quoteVolume": "0.33018353",
+    "percentChange": "4.69",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "KSM-ETH",
+    "high": "0.07125009",
+    "low": "0.07000005",
+    "volume": "0.82397163",
+    "quoteVolume": "0.05814998",
+    "percentChange": "-1.75",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "KSM-USDT",
+    "high": "40.89800000",
+    "low": "35.43900000",
+    "volume": "12.88762759",
+    "quoteVolume": "471.78019316",
+    "percentChange": "8.74",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "LAMB-BTC",
+    "high": "0.00000084",
+    "low": "0.00000084",
+    "volume": "32400.00000000",
+    "quoteVolume": "0.02721600",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:04:49.5Z"
+}, {
+    "symbol": "LBA-BTC",
+    "high": "0.00000015",
+    "low": "0.00000015",
+    "volume": "141.72194896",
+    "quoteVolume": "0.00002125",
+    "percentChange": "0",
+    "updatedAt": "2020-11-21T14:08:03.89Z"
+}, {
+    "symbol": "LBC-BTC",
+    "high": "0.00000151",
+    "low": "0.00000137",
+    "volume": "14809249.47782749",
+    "quoteVolume": "21.10840653",
+    "percentChange": "2.82",
+    "updatedAt": "2020-11-23T06:24:40.067Z"
+}, {
+    "symbol": "LBC-USDT",
+    "high": "0.02773000",
+    "low": "0.02488000",
+    "volume": "5109974.91673145",
+    "quoteVolume": "133470.09607090",
+    "percentChange": "1.95",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "LCS-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-10T18:03:41.8Z"
+}, {
+    "symbol": "LCS-USDT",
+    "high": "0.12429000",
+    "low": "0.10490000",
+    "volume": "119962.31061340",
+    "quoteVolume": "13518.00242472",
+    "percentChange": "11.09",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "LINK-BTC",
+    "high": "0.00081440",
+    "low": "0.00077773",
+    "volume": "23615.70360626",
+    "quoteVolume": "18.80991538",
+    "percentChange": "2.31",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "LINK-ETH",
+    "high": "0.02742216",
+    "low": "0.02534878",
+    "volume": "4638.82767070",
+    "quoteVolume": "123.44793055",
+    "percentChange": "-4.36",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "LINK-USD",
+    "high": "15.15903746",
+    "low": "13.73310938",
+    "volume": "24830.64367525",
+    "quoteVolume": "360632.16096451",
+    "percentChange": "2.36",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "LINK-USDT",
+    "high": "15.16035407",
+    "low": "13.87544688",
+    "volume": "39949.23916693",
+    "quoteVolume": "583860.29595802",
+    "percentChange": "1.94",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "LMCH-BTC",
+    "high": "0.00001449",
+    "low": "0.00001449",
+    "volume": "44.66662431",
+    "quoteVolume": "0.00064721",
+    "percentChange": "0",
+    "updatedAt": "2020-11-22T01:50:04.1Z"
+}, {
+    "symbol": "LMCH-USDT",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-22T14:53:48.7Z"
+}, {
+    "symbol": "LOKI-BTC",
+    "high": "0.00004020",
+    "low": "0.00003937",
+    "volume": "10682.79495163",
+    "quoteVolume": "0.42332083",
+    "percentChange": "2.11",
+    "updatedAt": "2020-11-23T06:13:04.923Z"
+}, {
+    "symbol": "LOKI-USDT",
+    "high": "0.73443000",
+    "low": "0.70856000",
+    "volume": "4309.22078392",
+    "quoteVolume": "3111.24623472",
+    "percentChange": "0.09",
+    "updatedAt": "2020-11-23T06:02:49.477Z"
+}, {
+    "symbol": "LOOM-BTC",
+    "high": "0.00000151",
+    "low": "0.00000129",
+    "volume": "521900.88158342",
+    "quoteVolume": "0.70779055",
+    "percentChange": "12.69",
+    "updatedAt": "2020-11-23T06:24:10.377Z"
+}, {
+    "symbol": "LOON-BTC",
+    "high": "0.00001480",
+    "low": "0.00001006",
+    "volume": "1386.45899132",
+    "quoteVolume": "0.01586087",
+    "percentChange": "-1.08",
+    "updatedAt": "2020-11-23T05:55:04.27Z"
+}, {
+    "symbol": "LOON-USDT",
+    "high": "0.20016000",
+    "low": "0.18607000",
+    "volume": "1243.19094628",
+    "quoteVolume": "243.16036853",
+    "percentChange": "2.86",
+    "updatedAt": "2020-11-23T05:42:04.03Z"
+}, {
+    "symbol": "LRC-BTC",
+    "high": "0.00001054",
+    "low": "0.00001012",
+    "volume": "362833.16414142",
+    "quoteVolume": "3.70440524",
+    "percentChange": "1.87",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "LSK-BTC",
+    "high": "0.00007017",
+    "low": "0.00006469",
+    "volume": "17988.02848275",
+    "quoteVolume": "1.21855614",
+    "percentChange": "3.03",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "LTC-BTC",
+    "high": "0.00483985",
+    "low": "0.00441357",
+    "volume": "13410.59309191",
+    "quoteVolume": "61.60243443",
+    "percentChange": "4.43",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "LTC-ETH",
+    "high": "0.15673283",
+    "low": "0.14467650",
+    "volume": "1361.44438025",
+    "quoteVolume": "205.94356828",
+    "percentChange": "-2.42",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "LTC-USD",
+    "high": "89.49000000",
+    "low": "77.88900000",
+    "volume": "8255.35242024",
+    "quoteVolume": "686397.05645979",
+    "percentChange": "3.57",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "LTC-USDT",
+    "high": "89.47406635",
+    "low": "77.74815814",
+    "volume": "7862.95128500",
+    "quoteVolume": "663622.35847350",
+    "percentChange": "4.05",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "LUCY-BTC",
+    "high": "0.00000057",
+    "low": "0.00000033",
+    "volume": "46501.73237923",
+    "quoteVolume": "0.02437377",
+    "percentChange": "-38.89",
+    "updatedAt": "2020-11-23T06:17:04.957Z"
+}, {
+    "symbol": "LUCY-USDT",
+    "high": "0.00708000",
+    "low": "0.00708000",
+    "volume": "2639.65267860",
+    "quoteVolume": "18.68874096",
+    "percentChange": "0",
+    "updatedAt": "2020-11-22T23:53:00.433Z"
+}, {
+    "symbol": "LUNA-BTC",
+    "high": "0.00002053",
+    "low": "0.00001877",
+    "volume": "78039.83778056",
+    "quoteVolume": "1.50970583",
+    "percentChange": "-5.93",
+    "updatedAt": "2020-11-23T06:24:15.05Z"
+}, {
+    "symbol": "LUNA-USDT",
+    "high": "0.37879000",
+    "low": "0.34252000",
+    "volume": "86548.94595029",
+    "quoteVolume": "31036.03631097",
+    "percentChange": "-6.17",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "MAID-BTC",
+    "high": "0.00000959",
+    "low": "0.00000879",
+    "volume": "165671.52105800",
+    "quoteVolume": "1.52957864",
+    "percentChange": "2.86",
+    "updatedAt": "2020-11-23T06:14:09.867Z"
+}, {
+    "symbol": "MANA-BTC",
+    "high": "0.00000509",
+    "low": "0.00000446",
+    "volume": "198638.03735036",
+    "quoteVolume": "0.96339461",
+    "percentChange": "6.68",
+    "updatedAt": "2020-11-23T06:20:20.063Z"
+}, {
+    "symbol": "MANA-ETH",
+    "high": "0.00016487",
+    "low": "0.00014710",
+    "volume": "155356.02188701",
+    "quoteVolume": "24.14472087",
+    "percentChange": "-0.78",
+    "updatedAt": "2020-11-23T06:24:35.16Z"
+}, {
+    "symbol": "MARO-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T04:15:16.807Z"
+}, {
+    "symbol": "MATIC-BTC",
+    "high": "0.00000119",
+    "low": "0.00000103",
+    "volume": "109882.43816836",
+    "quoteVolume": "0.11686092",
+    "percentChange": "1.92",
+    "updatedAt": "2020-11-23T06:23:05.17Z"
+}, {
+    "symbol": "MATIC-USDT",
+    "high": "0.01878000",
+    "low": "0.01818000",
+    "volume": "7979.69654297",
+    "quoteVolume": "147.66246324",
+    "percentChange": "3.30",
+    "updatedAt": "2020-11-23T06:22:35.103Z"
+}, {
+    "symbol": "MCO-BTC",
+    "high": "0.00020697",
+    "low": "0.00020691",
+    "volume": "46.03154821",
+    "quoteVolume": "0.00952694",
+    "percentChange": "0.03",
+    "updatedAt": "2020-10-27T22:58:02.18Z"
+}, {
+    "symbol": "MCO-ETH",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-01T06:13:14.8Z"
+}, {
+    "symbol": "MDT-BTC",
+    "high": "0.00000115",
+    "low": "0.00000105",
+    "volume": "141475.73678176",
+    "quoteVolume": "0.15664413",
+    "percentChange": "-2.68",
+    "updatedAt": "2020-11-23T06:24:30.067Z"
+}, {
+    "symbol": "MDT-USDT",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:21:30.02Z"
+}, {
+    "symbol": "ME-BTC",
+    "high": "0.00000077",
+    "low": "0.00000075",
+    "volume": "14847640.59012598",
+    "quoteVolume": "11.13957326",
+    "percentChange": "-1.32",
+    "updatedAt": "2020-11-23T06:22:50.073Z"
+}, {
+    "symbol": "MED-BTC",
+    "high": "0.00000028",
+    "low": "0.00000028",
+    "volume": "1800.00000000",
+    "quoteVolume": "0.00050400",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T02:43:04.893Z"
+}, {
+    "symbol": "MEME-BTC",
+    "high": "0.00000035",
+    "low": "0.00000030",
+    "volume": "409922.56221927",
+    "quoteVolume": "0.13208380",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:22:00.053Z"
+}, {
+    "symbol": "MER-BTC",
+    "high": "0.00000041",
+    "low": "0.00000032",
+    "volume": "146248.64528272",
+    "quoteVolume": "0.05385853",
+    "percentChange": "15.62",
+    "updatedAt": "2020-11-23T06:24:05.11Z"
+}, {
+    "symbol": "META-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T05:03:03.007Z"
+}, {
+    "symbol": "MET-BTC",
+    "high": "0.00005918",
+    "low": "0.00005491",
+    "volume": "171690.15777414",
+    "quoteVolume": "9.74177956",
+    "percentChange": "6.95",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "MET-ETH",
+    "high": "0.00187336",
+    "low": "0.00184329",
+    "volume": "653.67364372",
+    "quoteVolume": "1.21059459",
+    "percentChange": "1.50",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "MFA-BTC",
+    "high": "0.00001347",
+    "low": "0.00001100",
+    "volume": "35440.23895173",
+    "quoteVolume": "0.46325271",
+    "percentChange": "-17.73",
+    "updatedAt": "2020-11-23T06:24:45.097Z"
+}, {
+    "symbol": "MFA-USDT",
+    "high": "0.25000000",
+    "low": "0.18180000",
+    "volume": "132368.28801553",
+    "quoteVolume": "29857.16874327",
+    "percentChange": "-24.26",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "MFT-BTC",
+    "high": "0.00000014",
+    "low": "0.00000013",
+    "volume": "363402.11968791",
+    "quoteVolume": "0.04740172",
+    "percentChange": "7.69",
+    "updatedAt": "2020-11-23T05:56:04.353Z"
+}, {
+    "symbol": "MKR-BTC",
+    "high": "0.03133087",
+    "low": "0.02894465",
+    "volume": "22.23051543",
+    "quoteVolume": "0.68041930",
+    "percentChange": "6.52",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "MKR-ETH",
+    "high": "1.03649970",
+    "low": "0.98591714",
+    "volume": "5.14536108",
+    "quoteVolume": "5.14172433",
+    "percentChange": "-1.00",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "MKR-USDT",
+    "high": "598.65000000",
+    "low": "513.54800000",
+    "volume": "1.57854170",
+    "quoteVolume": "873.77921641",
+    "percentChange": "7.56",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "MOC-BTC",
+    "high": "0.00000128",
+    "low": "0.00000040",
+    "volume": "5498.61432931",
+    "quoteVolume": "0.00557471",
+    "percentChange": "212.50",
+    "updatedAt": "2020-11-23T04:53:12.7Z"
+}, {
+    "symbol": "MOF-BTC",
+    "high": "0.00001032",
+    "low": "0.00000940",
+    "volume": "107073.83844969",
+    "quoteVolume": "1.04703423",
+    "percentChange": "-5.11",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "MOF-USDT",
+    "high": "0.18836859",
+    "low": "0.17500000",
+    "volume": "47969.57290589",
+    "quoteVolume": "8492.15208353",
+    "percentChange": "-0.01",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "MONA-BTC",
+    "high": "0.00007684",
+    "low": "0.00007322",
+    "volume": "31235.86011046",
+    "quoteVolume": "2.37456013",
+    "percentChange": "1.98",
+    "updatedAt": "2020-11-23T06:17:10.207Z"
+}, {
+    "symbol": "MORE-BTC",
+    "high": "0.00000135",
+    "low": "0.00000125",
+    "volume": "7100.43256119",
+    "quoteVolume": "0.00931470",
+    "percentChange": "7.14",
+    "updatedAt": "2020-11-23T06:22:00.053Z"
+}, {
+    "symbol": "MRPH-BTC",
+    "high": "0.00001799",
+    "low": "0.00001470",
+    "volume": "13804.21367228",
+    "quoteVolume": "0.22126126",
+    "percentChange": "12.79",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "MTL-BTC",
+    "high": "0.00001755",
+    "low": "0.00001648",
+    "volume": "5768.14669153",
+    "quoteVolume": "0.09928877",
+    "percentChange": "0.75",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "MUE-BTC",
+    "high": "0.00000022",
+    "low": "0.00000019",
+    "volume": "774726.41176945",
+    "quoteVolume": "0.15181715",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T05:21:03.52Z"
+}, {
+    "symbol": "NAV-BTC",
+    "high": "0.00000584",
+    "low": "0.00000545",
+    "volume": "25227.40087327",
+    "quoteVolume": "0.14533052",
+    "percentChange": "0.35",
+    "updatedAt": "2020-11-23T06:24:35.16Z"
+}, {
+    "symbol": "NEO-BTC",
+    "high": "0.00096780",
+    "low": "0.00092944",
+    "volume": "8604.76007434",
+    "quoteVolume": "8.14003067",
+    "percentChange": "2.69",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "NEO-ETH",
+    "high": "0.03263000",
+    "low": "0.03026000",
+    "volume": "2130.07378715",
+    "quoteVolume": "67.59453666",
+    "percentChange": "-3.52",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "NEO-USDT",
+    "high": "17.86198777",
+    "low": "16.46768202",
+    "volume": "16197.16116362",
+    "quoteVolume": "279783.04884239",
+    "percentChange": "2.68",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "NGC-BTC",
+    "high": "0.00000304",
+    "low": "0.00000261",
+    "volume": "6289.37141135",
+    "quoteVolume": "0.01655927",
+    "percentChange": "-0.38",
+    "updatedAt": "2020-11-23T06:02:49.477Z"
+}, {
+    "symbol": "NKN-BTC",
+    "high": "0.00000111",
+    "low": "0.00000111",
+    "volume": "150.16326805",
+    "quoteVolume": "0.00016668",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:24:30.067Z"
+}, {
+    "symbol": "NLC2-BTC",
+    "high": "0.00000009",
+    "low": "0.00000009",
+    "volume": "200200.09980039",
+    "quoteVolume": "0.01801800",
+    "percentChange": "0",
+    "updatedAt": "2020-11-21T20:12:03.19Z"
+}, {
+    "symbol": "NLG-BTC",
+    "high": "0.00000045",
+    "low": "0.00000040",
+    "volume": "1317947.02449206",
+    "quoteVolume": "0.55558689",
+    "percentChange": "-4.65",
+    "updatedAt": "2020-11-23T05:53:04.12Z"
+}, {
+    "symbol": "NMR-BTC",
+    "high": "0.00226317",
+    "low": "0.00143229",
+    "volume": "8577.29127323",
+    "quoteVolume": "15.70116056",
+    "percentChange": "22.51",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "NMR-ETH",
+    "high": "0.08310000",
+    "low": "0.04679706",
+    "volume": "245.21278445",
+    "quoteVolume": "15.62908988",
+    "percentChange": "9.77",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "NMR-USDT",
+    "high": "40.00000000",
+    "low": "26.36398797",
+    "volume": "1066.91824461",
+    "quoteVolume": "35145.56973541",
+    "percentChange": "16.50",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "NPXS-BTC",
+    "high": "0.00000001",
+    "low": "0.00000001",
+    "volume": "8336367.62472752",
+    "quoteVolume": "0.08336360",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T05:49:04.183Z"
+}, {
+    "symbol": "NPXS-ETH",
+    "high": "0.00000035",
+    "low": "0.00000032",
+    "volume": "48018170.09372606",
+    "quoteVolume": "16.08633072",
+    "percentChange": "-5.71",
+    "updatedAt": "2020-11-23T06:10:54.697Z"
+}, {
+    "symbol": "NPXS-USDT",
+    "high": "0.00019225",
+    "low": "0.00017668",
+    "volume": "11862533.24374635",
+    "quoteVolume": "2237.12266048",
+    "percentChange": "0.92",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "NVT-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-21T18:20:31.177Z"
+}, {
+    "symbol": "NVT-USDT",
+    "high": "0.15137000",
+    "low": "0.15137000",
+    "volume": "22.00000000",
+    "quoteVolume": "3.33014000",
+    "percentChange": "0",
+    "updatedAt": "2020-11-20T23:05:03.327Z"
+}, {
+    "symbol": "NXS-BTC",
+    "high": "0.00001049",
+    "low": "0.00000923",
+    "volume": "54748.10612996",
+    "quoteVolume": "0.52880524",
+    "percentChange": "-0.94",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "NXT-BTC",
+    "high": "0.00000052",
+    "low": "0.00000047",
+    "volume": "919719.72266167",
+    "quoteVolume": "0.45738459",
+    "percentChange": "2.00",
+    "updatedAt": "2020-11-23T06:00:29.56Z"
+}, {
+    "symbol": "OCEAN-BTC",
+    "high": "0.00002988",
+    "low": "0.00002678",
+    "volume": "125036.05799407",
+    "quoteVolume": "3.49441681",
+    "percentChange": "-2.89",
+    "updatedAt": "2020-11-23T06:23:35.077Z"
+}, {
+    "symbol": "OCEAN-USDT",
+    "high": "0.53261641",
+    "low": "0.47000000",
+    "volume": "17504.63714244",
+    "quoteVolume": "8961.43278017",
+    "percentChange": "-6.87",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "OGN-BTC",
+    "high": "0.00000789",
+    "low": "0.00000763",
+    "volume": "1534.43061478",
+    "quoteVolume": "0.01196141",
+    "percentChange": "1.41",
+    "updatedAt": "2020-11-23T06:24:30.067Z"
+}, {
+    "symbol": "OGN-ETH",
+    "high": "0.00027000",
+    "low": "0.00027000",
+    "volume": "294.00235202",
+    "quoteVolume": "0.07938063",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:22:50.073Z"
+}, {
+    "symbol": "OK-BTC",
+    "high": "0.00000164",
+    "low": "0.00000141",
+    "volume": "484205.59477210",
+    "quoteVolume": "0.72522561",
+    "percentChange": "-9.94",
+    "updatedAt": "2020-11-23T06:23:05.17Z"
+}, {
+    "symbol": "OMG-BTC",
+    "high": "0.00022302",
+    "low": "0.00020438",
+    "volume": "10073.03436579",
+    "quoteVolume": "2.13177445",
+    "percentChange": "5.90",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "OMG-ETH",
+    "high": "0.00730000",
+    "low": "0.00675000",
+    "volume": "3282.09199460",
+    "quoteVolume": "22.87175590",
+    "percentChange": "-2.92",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "OMG-USDT",
+    "high": "4.12999994",
+    "low": "2.97000000",
+    "volume": "8651.70998901",
+    "quoteVolume": "32653.96449153",
+    "percentChange": "10.33",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ONG-BTC",
+    "high": "0.00000674",
+    "low": "0.00000661",
+    "volume": "4759.42452399",
+    "quoteVolume": "0.03181237",
+    "percentChange": "-1.64",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ONT-BTC",
+    "high": "0.00003057",
+    "low": "0.00002966",
+    "volume": "4474.31827288",
+    "quoteVolume": "0.13369077",
+    "percentChange": "2.52",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ONT-USDT",
+    "high": "0.56610637",
+    "low": "0.52605152",
+    "volume": "3702.52420052",
+    "quoteVolume": "2016.19226508",
+    "percentChange": "2.41",
+    "updatedAt": "2020-11-23T06:24:40.067Z"
+}, {
+    "symbol": "ORBS-BTC",
+    "high": "0.00000078",
+    "low": "0.00000065",
+    "volume": "54474.23046756",
+    "quoteVolume": "0.03900904",
+    "percentChange": "3.08",
+    "updatedAt": "2020-11-23T06:04:04.527Z"
+}, {
+    "symbol": "OST-BTC",
+    "high": "0.00000049",
+    "low": "0.00000049",
+    "volume": "17373.70000000",
+    "quoteVolume": "0.00851308",
+    "percentChange": "0",
+    "updatedAt": "2020-11-21T16:39:02.973Z"
+}, {
+    "symbol": "OXT-BTC",
+    "high": "0.00001429",
+    "low": "0.00001333",
+    "volume": "44455.98315510",
+    "quoteVolume": "0.60824606",
+    "percentChange": "0.86",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "OXT-USDT",
+    "high": "0.25936000",
+    "low": "0.24725000",
+    "volume": "11288.37277761",
+    "quoteVolume": "2845.72263151",
+    "percentChange": "-0.27",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "PAL-BTC",
+    "high": "0.00000002",
+    "low": "0.00000001",
+    "volume": "28237588.01302157",
+    "quoteVolume": "0.28262768",
+    "percentChange": "0",
+    "updatedAt": "2020-11-19T10:00:23.977Z"
+}, {
+    "symbol": "PART-BTC",
+    "high": "0.00003030",
+    "low": "0.00002727",
+    "volume": "5238.39446846",
+    "quoteVolume": "0.15074916",
+    "percentChange": "1.35",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "PAX-BTC",
+    "high": "0.00005619",
+    "low": "0.00005356",
+    "volume": "12135.30726242",
+    "quoteVolume": "0.66292307",
+    "percentChange": "1.85",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "PAX-USD",
+    "high": "1.00200000",
+    "low": "0.99851000",
+    "volume": "343.19715917",
+    "quoteVolume": "343.72897976",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:01:59.377Z"
+}, {
+    "symbol": "PAY-BTC",
+    "high": "0.00000371",
+    "low": "0.00000325",
+    "volume": "354158.25294440",
+    "quoteVolume": "1.23856950",
+    "percentChange": "7.29",
+    "updatedAt": "2020-11-23T06:22:10.01Z"
+}, {
+    "symbol": "PAY-ETH",
+    "high": "0.00012100",
+    "low": "0.00011103",
+    "volume": "29174.98592670",
+    "quoteVolume": "3.28689535",
+    "percentChange": "-7.07",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "PHNX-BTC",
+    "high": "0.00000079",
+    "low": "0.00000073",
+    "volume": "133081.87729342",
+    "quoteVolume": "0.09955585",
+    "percentChange": "4.11",
+    "updatedAt": "2020-11-23T05:47:19.097Z"
+}, {
+    "symbol": "PI-BTC",
+    "high": "0.00000054",
+    "low": "0.00000039",
+    "volume": "427204.07011775",
+    "quoteVolume": "0.17996702",
+    "percentChange": "38.46",
+    "updatedAt": "2020-11-23T06:06:44.583Z"
+}, {
+    "symbol": "PINK-BTC",
+    "high": "0.00000020",
+    "low": "0.00000011",
+    "volume": "13514700.77623154",
+    "quoteVolume": "2.09752686",
+    "percentChange": "7.69",
+    "updatedAt": "2020-11-23T06:21:25.1Z"
+}, {
+    "symbol": "PIVX-BTC",
+    "high": "0.00001780",
+    "low": "0.00001681",
+    "volume": "23262.50945055",
+    "quoteVolume": "0.40030100",
+    "percentChange": "1.05",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "PLA-BTC",
+    "high": "0.00000003",
+    "low": "0.00000003",
+    "volume": "91466.73320026",
+    "quoteVolume": "0.00274399",
+    "percentChange": "0",
+    "updatedAt": "2020-11-22T10:34:25.54Z"
+}, {
+    "symbol": "PLG-BTC",
+    "high": "0.00000001",
+    "low": "0.00000001",
+    "volume": "25931264.57863083",
+    "quoteVolume": "0.25931258",
+    "percentChange": "0",
+    "updatedAt": "2020-11-04T07:13:23.783Z"
+}, {
+    "symbol": "PMA-BTC",
+    "high": "0.00000002",
+    "low": "0.00000001",
+    "volume": "4241611.89080514",
+    "quoteVolume": "0.07097011",
+    "percentChange": "100",
+    "updatedAt": "2020-11-23T03:32:15.83Z"
+}, {
+    "symbol": "PMA-USDT",
+    "high": "0.00024950",
+    "low": "0.00019000",
+    "volume": "6364851.37085792",
+    "quoteVolume": "1435.09726582",
+    "percentChange": "-9.94",
+    "updatedAt": "2020-11-23T06:24:40.067Z"
+}, {
+    "symbol": "POT-BTC",
+    "high": "0.00000039",
+    "low": "0.00000035",
+    "volume": "35408.53144644",
+    "quoteVolume": "0.01313127",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T05:40:13.787Z"
+}, {
+    "symbol": "POWR-BTC",
+    "high": "0.00000544",
+    "low": "0.00000508",
+    "volume": "64019.07989157",
+    "quoteVolume": "0.33920769",
+    "percentChange": "0.19",
+    "updatedAt": "2020-11-23T06:20:45.113Z"
+}, {
+    "symbol": "POWR-ETH",
+    "high": "0.00018700",
+    "low": "0.00016630",
+    "volume": "29419.46050658",
+    "quoteVolume": "5.19616763",
+    "percentChange": "-5.89",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "PPC-BTC",
+    "high": "0.00001338",
+    "low": "0.00001278",
+    "volume": "10959.15132765",
+    "quoteVolume": "0.14480648",
+    "percentChange": "2.74",
+    "updatedAt": "2020-11-23T06:05:39.533Z"
+}, {
+    "symbol": "PROM-BTC",
+    "high": "0.00011631",
+    "low": "0.00011205",
+    "volume": "513.83570081",
+    "quoteVolume": "0.05845122",
+    "percentChange": "3.80",
+    "updatedAt": "2020-11-23T04:14:46.807Z"
+}, {
+    "symbol": "PTON-BTC",
+    "high": "0.00000002",
+    "low": "0.00000001",
+    "volume": "83621892.65107120",
+    "quoteVolume": "0.83775014",
+    "percentChange": "0",
+    "updatedAt": "2019-10-16T05:20:48.1Z"
+}, {
+    "symbol": "PTOY-BTC",
+    "high": "0.00000038",
+    "low": "0.00000038",
+    "volume": "8646.00000000",
+    "quoteVolume": "0.00328548",
+    "percentChange": "0",
+    "updatedAt": "2020-11-22T23:29:05.003Z"
+}, {
+    "symbol": "PXL-BTC",
+    "high": "0.00000041",
+    "low": "0.00000041",
+    "volume": "1488.14232000",
+    "quoteVolume": "0.00061013",
+    "percentChange": "0",
+    "updatedAt": "2020-11-22T11:08:11.633Z"
+}, {
+    "symbol": "QLC-BTC",
+    "high": "0.00000091",
+    "low": "0.00000087",
+    "volume": "684881.02094328",
+    "quoteVolume": "0.60587135",
+    "percentChange": "2.25",
+    "updatedAt": "2020-11-23T06:24:45.097Z"
+}, {
+    "symbol": "QLC-USDT",
+    "high": "0.01694000",
+    "low": "0.01552000",
+    "volume": "1308964.51079781",
+    "quoteVolume": "21266.74944449",
+    "percentChange": "-1.84",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "QNT-BTC",
+    "high": "0.00074559",
+    "low": "0.00069142",
+    "volume": "23888.08210984",
+    "quoteVolume": "17.25643302",
+    "percentChange": "-1.77",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "QRL-BTC",
+    "high": "0.00000658",
+    "low": "0.00000634",
+    "volume": "6752.94858649",
+    "quoteVolume": "0.04400944",
+    "percentChange": "-1.55",
+    "updatedAt": "2020-11-23T06:05:04.47Z"
+}, {
+    "symbol": "QTUM-BTC",
+    "high": "0.00014500",
+    "low": "0.00013400",
+    "volume": "8698.45590430",
+    "quoteVolume": "1.21152195",
+    "percentChange": "7.47",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "QTUM-ETH",
+    "high": "0.00470000",
+    "low": "0.00444714",
+    "volume": "283.53757458",
+    "quoteVolume": "1.32085317",
+    "percentChange": "-3.65",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "RADS-BTC",
+    "high": "0.00003334",
+    "low": "0.00002926",
+    "volume": "3726.69032039",
+    "quoteVolume": "0.11222926",
+    "percentChange": "0.19",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "RCN-BTC",
+    "high": "0.00000237",
+    "low": "0.00000206",
+    "volume": "18514.65417855",
+    "quoteVolume": "0.03891218",
+    "percentChange": "0.94",
+    "updatedAt": "2020-11-23T06:24:35.16Z"
+}, {
+    "symbol": "RDD-BTC",
+    "high": "0.00000007",
+    "low": "0.00000006",
+    "volume": "46490803.78908370",
+    "quoteVolume": "3.13249360",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:21:00.113Z"
+}, {
+    "symbol": "REN-BTC",
+    "high": "0.00009999",
+    "low": "0.00001930",
+    "volume": "9384.96227766",
+    "quoteVolume": "0.20657773",
+    "percentChange": "5.18",
+    "updatedAt": "2020-11-23T06:24:05.11Z"
+}, {
+    "symbol": "RENBTC-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:18:25.04Z"
+}, {
+    "symbol": "RENBTC-ETH",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:24:25.127Z"
+}, {
+    "symbol": "RENBTC-EUR",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-22T04:42:16.977Z"
+}, {
+    "symbol": "RENBTC-USD",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:24:35.16Z"
+}, {
+    "symbol": "RENBTC-USDT",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-20T11:25:57.65Z"
+}, {
+    "symbol": "REN-ETH",
+    "high": "0.00062009",
+    "low": "0.00062003",
+    "volume": "22.57955260",
+    "quoteVolume": "0.01400066",
+    "percentChange": "-0.01",
+    "updatedAt": "2020-11-23T06:24:30.067Z"
+}, {
+    "symbol": "REN-EUR",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:14:39.853Z"
+}, {
+    "symbol": "REN-USD",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:23:05.17Z"
+}, {
+    "symbol": "REN-USDT",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T05:43:14.05Z"
+}, {
+    "symbol": "REPV2-BTC",
+    "high": "0.00085591",
+    "low": "0.00080859",
+    "volume": "873.12781297",
+    "quoteVolume": "0.71108064",
+    "percentChange": "-0.27",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "REPV2-ETH",
+    "high": "0.02750092",
+    "low": "0.02609250",
+    "volume": "93.28937060",
+    "quoteVolume": "2.51224912",
+    "percentChange": "-5.12",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "REV-BTC",
+    "high": "0.00000103",
+    "low": "0.00000056",
+    "volume": "369770.65081487",
+    "quoteVolume": "0.23108674",
+    "percentChange": "-18.31",
+    "updatedAt": "2020-11-23T06:24:05.11Z"
+}, {
+    "symbol": "REV-USDT",
+    "high": "0.01100000",
+    "low": "0.01053000",
+    "volume": "2294135.62548996",
+    "quoteVolume": "24236.37854900",
+    "percentChange": "0.09",
+    "updatedAt": "2020-11-23T06:23:15.06Z"
+}, {
+    "symbol": "RFR-BTC",
+    "high": "0.00000002",
+    "low": "0.00000002",
+    "volume": "135684.70059879",
+    "quoteVolume": "0.00271369",
+    "percentChange": "0",
+    "updatedAt": "2020-11-21T21:27:04.613Z"
+}, {
+    "symbol": "RLC-BTC",
+    "high": "0.00005846",
+    "low": "0.00005100",
+    "volume": "10827.00535501",
+    "quoteVolume": "0.57863692",
+    "percentChange": "7.93",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "RVC-BTC",
+    "high": "0.00000001",
+    "low": "0.00000001",
+    "volume": "691294.19000000",
+    "quoteVolume": "0.00691291",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:04:29.53Z"
+}, {
+    "symbol": "RVC-USDT",
+    "high": "0.00026000",
+    "low": "0.00026000",
+    "volume": "26341.89676027",
+    "quoteVolume": "6.84889315",
+    "percentChange": "0",
+    "updatedAt": "2020-11-22T19:24:04.907Z"
+}, {
+    "symbol": "RVN-BTC",
+    "high": "0.00000076",
+    "low": "0.00000072",
+    "volume": "6205881.82847896",
+    "quoteVolume": "4.58015433",
+    "percentChange": "1.37",
+    "updatedAt": "2020-11-23T06:24:05.11Z"
+}, {
+    "symbol": "RVN-USD",
+    "high": "0.01420000",
+    "low": "0.01301000",
+    "volume": "2158624.60363530",
+    "quoteVolume": "29318.59887806",
+    "percentChange": "1.62",
+    "updatedAt": "2020-11-23T06:24:20.11Z"
+}, {
+    "symbol": "RVN-USDT",
+    "high": "0.01421938",
+    "low": "0.01290837",
+    "volume": "874128.90657776",
+    "quoteVolume": "11913.18269353",
+    "percentChange": "0.06",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "SBD-BTC",
+    "high": "0.00006699",
+    "low": "0.00005923",
+    "volume": "2390.91818061",
+    "quoteVolume": "0.15509682",
+    "percentChange": "2.03",
+    "updatedAt": "2020-11-23T06:24:45.097Z"
+}, {
+    "symbol": "SC-BTC",
+    "high": "0.00000017",
+    "low": "0.00000015",
+    "volume": "63701160.07839272",
+    "quoteVolume": "10.29920188",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T05:54:04.173Z"
+}, {
+    "symbol": "SC-ETH",
+    "high": "0.00000564",
+    "low": "0.00000511",
+    "volume": "4360774.96385995",
+    "quoteVolume": "23.46774326",
+    "percentChange": "-5.81",
+    "updatedAt": "2020-11-23T06:24:45.097Z"
+}, {
+    "symbol": "SC-USD",
+    "high": "0.00304000",
+    "low": "0.00282000",
+    "volume": "13956254.87609257",
+    "quoteVolume": "40622.30046965",
+    "percentChange": "-1.00",
+    "updatedAt": "2020-11-23T06:24:30.067Z"
+}, {
+    "symbol": "SC-USDT",
+    "high": "0.00302452",
+    "low": "0.00282479",
+    "volume": "5083150.16482501",
+    "quoteVolume": "14738.77538657",
+    "percentChange": "-0.91",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "SDT-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "SDT-USDT",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "SENSO-BTC",
+    "high": "0.00001666",
+    "low": "0.00001566",
+    "volume": "294371.86331903",
+    "quoteVolume": "4.70150649",
+    "percentChange": "1.76",
+    "updatedAt": "2020-11-23T06:24:45.097Z"
+}, {
+    "symbol": "SENSO-ETH",
+    "high": "0.00055847",
+    "low": "0.00050000",
+    "volume": "257356.22321008",
+    "quoteVolume": "138.91014710",
+    "percentChange": "-4.95",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "SHR-BTC",
+    "high": "0.00000125",
+    "low": "0.00000116",
+    "volume": "556667.04181861",
+    "quoteVolume": "0.66642677",
+    "percentChange": "4.24",
+    "updatedAt": "2020-11-23T05:32:13.63Z"
+}, {
+    "symbol": "SHR-USDT",
+    "high": "0.02284000",
+    "low": "0.02112000",
+    "volume": "56308.49961773",
+    "quoteVolume": "1232.23178110",
+    "percentChange": "4.03",
+    "updatedAt": "2020-11-23T05:45:29.12Z"
+}, {
+    "symbol": "SIB-BTC",
+    "high": "0.00000104",
+    "low": "0.00000089",
+    "volume": "17927.49527798",
+    "quoteVolume": "0.01725475",
+    "percentChange": "13.04",
+    "updatedAt": "2020-11-23T04:23:01.997Z"
+}, {
+    "symbol": "SIX-BTC",
+    "high": "0.00000056",
+    "low": "0.00000053",
+    "volume": "1637474.99144281",
+    "quoteVolume": "0.88349734",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:24:30.067Z"
+}, {
+    "symbol": "SKM-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-22T23:18:24.49Z"
+}, {
+    "symbol": "SKM-USDT",
+    "high": "0.00240000",
+    "low": "0.00240000",
+    "volume": "20159.86465051",
+    "quoteVolume": "48.38367516",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:24:45.097Z"
+}, {
+    "symbol": "SLS-BTC",
+    "high": "0.00070252",
+    "low": "0.00067000",
+    "volume": "39.56342358",
+    "quoteVolume": "0.02694757",
+    "percentChange": "-4.63",
+    "updatedAt": "2020-11-23T06:16:39.923Z"
+}, {
+    "symbol": "SNT-BTC",
+    "high": "0.00000199",
+    "low": "0.00000180",
+    "volume": "2004536.79188578",
+    "quoteVolume": "3.73881804",
+    "percentChange": "2.73",
+    "updatedAt": "2020-11-23T06:24:15.05Z"
+}, {
+    "symbol": "SNT-ETH",
+    "high": "0.00006825",
+    "low": "0.00005901",
+    "volume": "934898.94608942",
+    "quoteVolume": "60.38290198",
+    "percentChange": "-5.87",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "SOLVE-BTC",
+    "high": "0.00000518",
+    "low": "0.00000489",
+    "volume": "194249.70880851",
+    "quoteVolume": "0.97455861",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:22:00.053Z"
+}, {
+    "symbol": "SOLVE-ETH",
+    "high": "0.00017506",
+    "low": "0.00015960",
+    "volume": "7600.36969766",
+    "quoteVolume": "1.27848801",
+    "percentChange": "-5.03",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "SOLVE-USD",
+    "high": "0.09350000",
+    "low": "0.09049000",
+    "volume": "35479.27679221",
+    "quoteVolume": "3246.00378927",
+    "percentChange": "0.56",
+    "updatedAt": "2020-11-23T06:21:55.053Z"
+}, {
+    "symbol": "SOLVE-USDT",
+    "high": "0.09328000",
+    "low": "0.09015000",
+    "volume": "50977.41517798",
+    "quoteVolume": "4666.60279622",
+    "percentChange": "0.43",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "SPC-BTC",
+    "high": "0.00000038",
+    "low": "0.00000030",
+    "volume": "4016762.01772047",
+    "quoteVolume": "1.34122338",
+    "percentChange": "-13.16",
+    "updatedAt": "2020-11-23T05:33:03.633Z"
+}, {
+    "symbol": "SPHR-BTC",
+    "high": "0.00000837",
+    "low": "0.00000578",
+    "volume": "60102.88925077",
+    "quoteVolume": "0.42582401",
+    "percentChange": "-20.36",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "SPIN-BTC",
+    "high": "0.00000002",
+    "low": "0.00000001",
+    "volume": "1114719.56087822",
+    "quoteVolume": "0.01231432",
+    "percentChange": "0",
+    "updatedAt": "2020-11-22T23:58:00.517Z"
+}, {
+    "symbol": "SPND-BTC",
+    "high": "0.00000025",
+    "low": "0.00000020",
+    "volume": "13539383.10965075",
+    "quoteVolume": "3.02814333",
+    "percentChange": "8.70",
+    "updatedAt": "2020-11-23T06:24:10.377Z"
+}, {
+    "symbol": "SRN-BTC",
+    "high": "0.00000078",
+    "low": "0.00000067",
+    "volume": "219495.12417803",
+    "quoteVolume": "0.16043537",
+    "percentChange": "-1.47",
+    "updatedAt": "2020-11-23T06:22:10.01Z"
+}, {
+    "symbol": "SRN-ETH",
+    "high": "0.00002300",
+    "low": "0.00002040",
+    "volume": "424.85455885",
+    "quoteVolume": "0.00918703",
+    "percentChange": "12.75",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "STC-BTC",
+    "high": "0.00000384",
+    "low": "0.00000383",
+    "volume": "1981.96044975",
+    "quoteVolume": "0.00760173",
+    "percentChange": "0.26",
+    "updatedAt": "2020-11-23T06:23:40.093Z"
+}, {
+    "symbol": "STEEM-BTC",
+    "high": "0.00000918",
+    "low": "0.00000863",
+    "volume": "188006.12585442",
+    "quoteVolume": "1.66444844",
+    "percentChange": "2.06",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "STMX-BTC",
+    "high": "0.00000014",
+    "low": "0.00000012",
+    "volume": "16878294.01524397",
+    "quoteVolume": "2.19929284",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:23:40.093Z"
+}, {
+    "symbol": "STMX-ETH",
+    "high": "0.00000459",
+    "low": "0.00000411",
+    "volume": "17032842.46867602",
+    "quoteVolume": "72.95852589",
+    "percentChange": "-4.64",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "STORJ-BTC",
+    "high": "0.00002023",
+    "low": "0.00001815",
+    "volume": "9566.44297379",
+    "quoteVolume": "0.17788020",
+    "percentChange": "-0.59",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "STPT-BTC",
+    "high": "0.00000109",
+    "low": "0.00000083",
+    "volume": "103854.01805065",
+    "quoteVolume": "0.08868774",
+    "percentChange": "-4.60",
+    "updatedAt": "2020-11-23T05:30:43.56Z"
+}, {
+    "symbol": "STRAT-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-21T13:43:43.257Z"
+}, {
+    "symbol": "STRAT-ETH",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-16T13:04:25.58Z"
+}, {
+    "symbol": "SUKU-BTC",
+    "high": "0.00000652",
+    "low": "0.00000624",
+    "volume": "112214.69097676",
+    "quoteVolume": "0.71469709",
+    "percentChange": "-2.61",
+    "updatedAt": "2020-11-23T06:23:35.077Z"
+}, {
+    "symbol": "SUKU-USDT",
+    "high": "0.11778000",
+    "low": "0.11546000",
+    "volume": "15948.44950488",
+    "quoteVolume": "1844.43872634",
+    "percentChange": "0.67",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "SUTER-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:24:20.11Z"
+}, {
+    "symbol": "SUTER-USDT",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:24:30.067Z"
+}, {
+    "symbol": "SXP-BTC",
+    "high": "0.00005908",
+    "low": "0.00005469",
+    "volume": "15890.09959288",
+    "quoteVolume": "0.90647348",
+    "percentChange": "5.86",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "SYS-BTC",
+    "high": "0.00000445",
+    "low": "0.00000403",
+    "volume": "712586.41031765",
+    "quoteVolume": "3.04511041",
+    "percentChange": "4.50",
+    "updatedAt": "2020-11-23T06:24:30.067Z"
+}, {
+    "symbol": "TEMCO-BTC",
+    "high": "0.00000005",
+    "low": "0.00000005",
+    "volume": "66575.08491902",
+    "quoteVolume": "0.00332875",
+    "percentChange": "0",
+    "updatedAt": "2020-11-21T17:58:00.663Z"
+}, {
+    "symbol": "THC-BTC",
+    "high": "0.00000037",
+    "low": "0.00000032",
+    "volume": "313083.31347032",
+    "quoteVolume": "0.10309308",
+    "percentChange": "-13.51",
+    "updatedAt": "2020-11-23T05:30:23.637Z"
+}, {
+    "symbol": "TNC-BTC",
+    "high": "0.00000570",
+    "low": "0.00000501",
+    "volume": "71453.58428128",
+    "quoteVolume": "0.37446198",
+    "percentChange": "0.38",
+    "updatedAt": "2020-11-23T05:52:24.227Z"
+}, {
+    "symbol": "TRAC-BTC",
+    "high": "0.00000797",
+    "low": "0.00000665",
+    "volume": "99880.58000077",
+    "quoteVolume": "0.73015554",
+    "percentChange": "15.07",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "TRAC-ETH",
+    "high": "0.00024363",
+    "low": "0.00022302",
+    "volume": "3951.58119168",
+    "quoteVolume": "0.94151171",
+    "percentChange": "7.79",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "TRAC-USDT",
+    "high": "0.14750000",
+    "low": "0.11813000",
+    "volume": "5174.29610630",
+    "quoteVolume": "642.48681723",
+    "percentChange": "12.15",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "TRX-BTC",
+    "high": "0.00000161",
+    "low": "0.00000152",
+    "volume": "15280426.16012686",
+    "quoteVolume": "24.02788423",
+    "percentChange": "3.90",
+    "updatedAt": "2020-11-23T06:24:05.11Z"
+}, {
+    "symbol": "TRX-ETH",
+    "high": "0.00005390",
+    "low": "0.00005055",
+    "volume": "1731437.75452371",
+    "quoteVolume": "89.83596616",
+    "percentChange": "-3.00",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "TRX-EUR",
+    "high": "0.02511000",
+    "low": "0.02318000",
+    "volume": "430036.68630539",
+    "quoteVolume": "10347.94973052",
+    "percentChange": "2.11",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "TRX-USD",
+    "high": "0.03007000",
+    "low": "0.02724000",
+    "volume": "9005559.94141631",
+    "quoteVolume": "261407.85787511",
+    "percentChange": "2.34",
+    "updatedAt": "2020-11-23T06:24:40.067Z"
+}, {
+    "symbol": "TRX-USDT",
+    "high": "0.02994735",
+    "low": "0.02727219",
+    "volume": "7533367.48322112",
+    "quoteVolume": "215070.44414573",
+    "percentChange": "2.34",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "TRYB-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:23:30.14Z"
+}, {
+    "symbol": "TRYB-USDT",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:12:54.797Z"
+}, {
+    "symbol": "TSHP-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-21T07:33:21.667Z"
+}, {
+    "symbol": "TUBE-BTC",
+    "high": "0.00000023",
+    "low": "0.00000019",
+    "volume": "516108.66477664",
+    "quoteVolume": "0.11364680",
+    "percentChange": "-5.00",
+    "updatedAt": "2020-11-23T06:22:50.073Z"
+}, {
+    "symbol": "TUDA-BTC",
+    "high": "0.00000016",
+    "low": "0.00000016",
+    "volume": "13028.39321357",
+    "quoteVolume": "0.00208454",
+    "percentChange": "0",
+    "updatedAt": "2020-11-20T14:55:07.897Z"
+}, {
+    "symbol": "TUSD-BTC",
+    "high": "0.00005679",
+    "low": "0.00005344",
+    "volume": "336500.85924514",
+    "quoteVolume": "18.35496168",
+    "percentChange": "0.74",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "TUSD-ETH",
+    "high": "0.00194000",
+    "low": "0.00173731",
+    "volume": "31615.72982327",
+    "quoteVolume": "56.69560631",
+    "percentChange": "-6.56",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "TUSD-USD",
+    "high": "1.00129000",
+    "low": "0.99841000",
+    "volume": "42906.39667801",
+    "quoteVolume": "42901.56319104",
+    "percentChange": "-0.07",
+    "updatedAt": "2020-11-23T06:01:59.377Z"
+}, {
+    "symbol": "TUSD-USDT",
+    "high": "1.00087499",
+    "low": "1.00087491",
+    "volume": "40.12955493",
+    "quoteVolume": "40.16466500",
+    "percentChange": "0.00",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "UBQ-BTC",
+    "high": "0.00000839",
+    "low": "0.00000688",
+    "volume": "120296.77848629",
+    "quoteVolume": "0.89998561",
+    "percentChange": "-6.78",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "UBT-BTC",
+    "high": "0.00001974",
+    "low": "0.00001754",
+    "volume": "82931.04089938",
+    "quoteVolume": "1.55882218",
+    "percentChange": "3.70",
+    "updatedAt": "2020-11-23T06:24:45.097Z"
+}, {
+    "symbol": "UBT-ETH",
+    "high": "0.00066380",
+    "low": "0.00059457",
+    "volume": "23636.14721526",
+    "quoteVolume": "14.50964662",
+    "percentChange": "-4.20",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "UCT-BTC",
+    "high": "0.00000043",
+    "low": "0.00000042",
+    "volume": "28241.08792919",
+    "quoteVolume": "0.01209125",
+    "percentChange": "2.38",
+    "updatedAt": "2020-11-23T06:19:00.057Z"
+}, {
+    "symbol": "UCT-USDT",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:02:44.427Z"
+}, {
+    "symbol": "UMA-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:18:25.04Z"
+}, {
+    "symbol": "UMA-ETH",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-16T20:00:30.69Z"
+}, {
+    "symbol": "UMA-EUR",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-20T23:11:18.417Z"
+}, {
+    "symbol": "UMA-USD",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T05:25:38.54Z"
+}, {
+    "symbol": "UMA-USDT",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T05:21:13.55Z"
+}, {
+    "symbol": "UNI-BTC",
+    "high": "0.00021060",
+    "low": "0.00019306",
+    "volume": "6395.64224842",
+    "quoteVolume": "1.28515908",
+    "percentChange": "3.19",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "UNI-ETH",
+    "high": "0.00692818",
+    "low": "0.00657005",
+    "volume": "386.82798485",
+    "quoteVolume": "2.61802073",
+    "percentChange": "-2.30",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "UNI-USD",
+    "high": "3.95100000",
+    "low": "3.50000000",
+    "volume": "488.18164217",
+    "quoteVolume": "1800.75125297",
+    "percentChange": "0.89",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "UNI-USDT",
+    "high": "4.07200000",
+    "low": "3.45000000",
+    "volume": "1254.60241746",
+    "quoteVolume": "4619.90966074",
+    "percentChange": "0.32",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "UPEUR-BTC",
+    "high": "0.00006215",
+    "low": "0.00005527",
+    "volume": "85691.90628051",
+    "quoteVolume": "5.01663533",
+    "percentChange": "-8.26",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "UPP-BTC",
+    "high": "0.00000103",
+    "low": "0.00000080",
+    "volume": "104492.55835646",
+    "quoteVolume": "0.09911188",
+    "percentChange": "9.57",
+    "updatedAt": "2020-11-23T06:24:20.11Z"
+}, {
+    "symbol": "UPT-BTC",
+    "high": "0.00000012",
+    "low": "0.00000012",
+    "volume": "20548.40387727",
+    "quoteVolume": "0.00246580",
+    "percentChange": "0",
+    "updatedAt": "2020-11-22T10:52:00.91Z"
+}, {
+    "symbol": "UPUSD-BTC",
+    "high": "0.00005227",
+    "low": "0.00005226",
+    "volume": "132.29966688",
+    "quoteVolume": "0.00691479",
+    "percentChange": "0.02",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "UPUSD-USDT",
+    "high": "0.93000000",
+    "low": "0.92000003",
+    "volume": "111.04334654",
+    "quoteVolume": "102.37301012",
+    "percentChange": "-1.08",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "UPXAU-BTC",
+    "high": "0.10526600",
+    "low": "0.10526600",
+    "volume": "0.03421000",
+    "quoteVolume": "0.00360114",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:24:30.067Z"
+}, {
+    "symbol": "UQC-BTC",
+    "high": "0.00036590",
+    "low": "0.00034703",
+    "volume": "48626.70752758",
+    "quoteVolume": "17.50453820",
+    "percentChange": "4.30",
+    "updatedAt": "2020-11-23T06:22:25.04Z"
+}, {
+    "symbol": "UQC-USDT",
+    "high": "6.71600000",
+    "low": "6.40300000",
+    "volume": "15171.39615617",
+    "quoteVolume": "101620.30536371",
+    "percentChange": "1.53",
+    "updatedAt": "2020-11-23T00:47:56.897Z"
+}, {
+    "symbol": "URAC-BTC",
+    "high": "0.00000003",
+    "low": "0.00000003",
+    "volume": "1000.00000000",
+    "quoteVolume": "0.00003000",
+    "percentChange": "0",
+    "updatedAt": "2020-11-22T15:43:49.363Z"
+}, {
+    "symbol": "USDC-BTC",
+    "high": "0.00005665",
+    "low": "0.00005352",
+    "volume": "84623.70039909",
+    "quoteVolume": "4.62821501",
+    "percentChange": "0.37",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "USDC-ETH",
+    "high": "0.00194361",
+    "low": "0.00171290",
+    "volume": "15479.75911258",
+    "quoteVolume": "28.00445302",
+    "percentChange": "-7.68",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "USDC-USD",
+    "high": "1.00200000",
+    "low": "0.99750000",
+    "volume": "31662.85268448",
+    "quoteVolume": "31639.92452979",
+    "percentChange": "-0.25",
+    "updatedAt": "2020-11-23T06:14:39.853Z"
+}, {
+    "symbol": "USDC-USDT",
+    "high": "1.00179000",
+    "low": "0.99650000",
+    "volume": "12836.96297259",
+    "quoteVolume": "12798.14163334",
+    "percentChange": "-0.18",
+    "updatedAt": "2020-11-23T06:17:50.397Z"
+}, {
+    "symbol": "USD-EUR",
+    "high": "0.84820000",
+    "low": "0.83680000",
+    "volume": "21009.11170048",
+    "quoteVolume": "17700.67606239",
+    "percentChange": "0.42",
+    "updatedAt": "2020-11-23T06:03:24.557Z"
+}, {
+    "symbol": "USDN-BTC",
+    "high": "0.00005535",
+    "low": "0.00005366",
+    "volume": "21138.57467303",
+    "quoteVolume": "1.15165473",
+    "percentChange": "1.36",
+    "updatedAt": "2020-11-23T06:09:59.63Z"
+}, {
+    "symbol": "USDN-USDT",
+    "high": "1.00000000",
+    "low": "0.97510000",
+    "volume": "21090.84146921",
+    "quoteVolume": "20723.60693545",
+    "percentChange": "1.14",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "USDS-BTC",
+    "high": "0.00005468",
+    "low": "0.00005373",
+    "volume": "1809.09239577",
+    "quoteVolume": "0.09830254",
+    "percentChange": "0.61",
+    "updatedAt": "2020-11-23T06:24:45.097Z"
+}, {
+    "symbol": "USDS-USD",
+    "high": "1.00250000",
+    "low": "0.99403000",
+    "volume": "1887.99147527",
+    "quoteVolume": "1892.20525262",
+    "percentChange": "0.00",
+    "updatedAt": "2020-11-23T06:16:05.123Z"
+}, {
+    "symbol": "USDT-EUR",
+    "high": "0.84700000",
+    "low": "0.83900000",
+    "volume": "106766.74041994",
+    "quoteVolume": "89740.46966063",
+    "percentChange": "-0.12",
+    "updatedAt": "2020-11-23T06:24:40.067Z"
+}, {
+    "symbol": "USDT-USD",
+    "high": "1.00200000",
+    "low": "0.99800000",
+    "volume": "1048996.30537312",
+    "quoteVolume": "1049660.89766107",
+    "percentChange": "0.05",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "UST-BTC",
+    "high": "0.00005641",
+    "low": "0.00005434",
+    "volume": "662.62911402",
+    "quoteVolume": "0.03635607",
+    "percentChange": "-1.68",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "UST-USDT",
+    "high": "1.03340000",
+    "low": "1.00060000",
+    "volume": "510.86500909",
+    "quoteVolume": "512.88832664",
+    "percentChange": "-3.17",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "UTI-BTC",
+    "high": "0.00003138",
+    "low": "0.00002485",
+    "volume": "622565.81709930",
+    "quoteVolume": "18.48635427",
+    "percentChange": "-16.34",
+    "updatedAt": "2020-11-23T06:24:05.11Z"
+}, {
+    "symbol": "UTK-BTC",
+    "high": "0.00000863",
+    "low": "0.00000760",
+    "volume": "376259.41298315",
+    "quoteVolume": "3.08590415",
+    "percentChange": "3.07",
+    "updatedAt": "2020-11-23T06:23:25.107Z"
+}, {
+    "symbol": "VANY-BTC",
+    "high": "0.00000005",
+    "low": "0.00000005",
+    "volume": "467511.63072004",
+    "quoteVolume": "0.02337554",
+    "percentChange": "0",
+    "updatedAt": "2020-11-22T21:22:02.367Z"
+}, {
+    "symbol": "VANY-USDT",
+    "high": "0.00103000",
+    "low": "0.00102000",
+    "volume": "391500.65699668",
+    "quoteVolume": "400.52461670",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:09:24.673Z"
+}, {
+    "symbol": "VBK-BTC",
+    "high": "0.00000031",
+    "low": "0.00000029",
+    "volume": "276938.16071364",
+    "quoteVolume": "0.08293482",
+    "percentChange": "-6.45",
+    "updatedAt": "2020-11-23T06:18:40.057Z"
+}, {
+    "symbol": "VDX-BTC",
+    "high": "0.00000002",
+    "low": "0.00000002",
+    "volume": "105569.36127744",
+    "quoteVolume": "0.00211138",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T03:05:05.373Z"
+}, {
+    "symbol": "VDX-ETH",
+    "high": "0.00000100",
+    "low": "0.00000081",
+    "volume": "4224.99787092",
+    "quoteVolume": "0.00352326",
+    "percentChange": "-19.00",
+    "updatedAt": "2020-11-23T00:30:01.523Z"
+}, {
+    "symbol": "VDX-USDT",
+    "high": "0.00043965",
+    "low": "0.00043965",
+    "volume": "50000.00000000",
+    "quoteVolume": "21.98250000",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:07:19.493Z"
+}, {
+    "symbol": "VEE-BTC",
+    "high": "0.00000009",
+    "low": "0.00000009",
+    "volume": "5736.31660000",
+    "quoteVolume": "0.00051626",
+    "percentChange": "0",
+    "updatedAt": "2020-11-22T07:16:30.103Z"
+}, {
+    "symbol": "VET-BTC",
+    "high": "0.00000084",
+    "low": "0.00000072",
+    "volume": "2621229.12609173",
+    "quoteVolume": "2.01025772",
+    "percentChange": "16.67",
+    "updatedAt": "2020-11-23T06:23:30.14Z"
+}, {
+    "symbol": "VET-USDT",
+    "high": "0.01534999",
+    "low": "0.01283236",
+    "volume": "1838769.97049796",
+    "quoteVolume": "25192.99601851",
+    "percentChange": "16.20",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "VIA-BTC",
+    "high": "0.00001149",
+    "low": "0.00001087",
+    "volume": "17231.12227831",
+    "quoteVolume": "0.19165323",
+    "percentChange": "-1.08",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "VIB-BTC",
+    "high": "0.00000093",
+    "low": "0.00000083",
+    "volume": "7295.74619252",
+    "quoteVolume": "0.00648878",
+    "percentChange": "2.27",
+    "updatedAt": "2020-11-23T06:21:30.02Z"
+}, {
+    "symbol": "VIB-ETH",
+    "high": "0.00002959",
+    "low": "0.00002721",
+    "volume": "5089.60014437",
+    "quoteVolume": "0.14735532",
+    "percentChange": "-8.04",
+    "updatedAt": "2020-11-23T06:24:30.067Z"
+}, {
+    "symbol": "VID-BTC",
+    "high": "0.00000232",
+    "low": "0.00000222",
+    "volume": "2314452.76984299",
+    "quoteVolume": "5.22077309",
+    "percentChange": "-1.32",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "VITE-BTC",
+    "high": "0.00000142",
+    "low": "0.00000115",
+    "volume": "61284.89522762",
+    "quoteVolume": "0.07943710",
+    "percentChange": "16.39",
+    "updatedAt": "2020-11-23T06:08:24.653Z"
+}, {
+    "symbol": "VLX-BTC",
+    "high": "0.00000165",
+    "low": "0.00000154",
+    "volume": "3396325.55420032",
+    "quoteVolume": "5.35744531",
+    "percentChange": "3.25",
+    "updatedAt": "2020-11-23T06:24:40.067Z"
+}, {
+    "symbol": "VLX-USDT",
+    "high": "0.03084000",
+    "low": "0.02839000",
+    "volume": "3347675.70975292",
+    "quoteVolume": "97121.65473103",
+    "percentChange": "2.35",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "VRA-BTC",
+    "high": "0.00000003",
+    "low": "0.00000003",
+    "volume": "196948.33333333",
+    "quoteVolume": "0.00590844",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T04:43:02.44Z"
+}, {
+    "symbol": "VRC-BTC",
+    "high": "0.00000265",
+    "low": "0.00000230",
+    "volume": "33511.98958311",
+    "quoteVolume": "0.07903769",
+    "percentChange": "12.93",
+    "updatedAt": "2020-11-23T06:22:15.057Z"
+}, {
+    "symbol": "VTC-BTC",
+    "high": "0.00000880",
+    "low": "0.00000792",
+    "volume": "467227.76088469",
+    "quoteVolume": "3.90387066",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "WAVES-BTC",
+    "high": "0.00046945",
+    "low": "0.00032612",
+    "volume": "105391.58097558",
+    "quoteVolume": "42.43615883",
+    "percentChange": "39.21",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "WAVES-ETH",
+    "high": "0.01485501",
+    "low": "0.01114000",
+    "volume": "7886.12248862",
+    "quoteVolume": "101.53155132",
+    "percentChange": "28.24",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "WAXP-BTC",
+    "high": "0.00000193",
+    "low": "0.00000186",
+    "volume": "2606172.81175296",
+    "quoteVolume": "4.94294210",
+    "percentChange": "1.58",
+    "updatedAt": "2020-11-23T06:24:05.11Z"
+}, {
+    "symbol": "WAXP-ETH",
+    "high": "0.00006593",
+    "low": "0.00006005",
+    "volume": "222216.05549695",
+    "quoteVolume": "13.93513976",
+    "percentChange": "-4.89",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "WAXP-USD",
+    "high": "0.03555425",
+    "low": "0.03383865",
+    "volume": "800625.70060919",
+    "quoteVolume": "27765.83525291",
+    "percentChange": "0.00",
+    "updatedAt": "2020-11-23T06:22:50.073Z"
+}, {
+    "symbol": "WAXP-USDT",
+    "high": "0.03555425",
+    "low": "0.03373736",
+    "volume": "1047759.93275678",
+    "quoteVolume": "36455.05184746",
+    "percentChange": "0.60",
+    "updatedAt": "2020-11-23T06:23:20.077Z"
+}, {
+    "symbol": "WBTC-BTC",
+    "high": "1.02532088",
+    "low": "0.99810001",
+    "volume": "0.36905278",
+    "quoteVolume": "0.37161023",
+    "percentChange": "1.04",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "WBTC-ETH",
+    "high": "33.57070101",
+    "low": "33.24945028",
+    "volume": "0.00255320",
+    "quoteVolume": "0.08549593",
+    "percentChange": "-0.96",
+    "updatedAt": "2020-11-23T06:24:30.067Z"
+}, {
+    "symbol": "WBTC-USDT",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:24:45.097Z"
+}, {
+    "symbol": "WGP-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T03:03:15.367Z"
+}, {
+    "symbol": "WICC-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:23:25.107Z"
+}, {
+    "symbol": "WICC-USDT",
+    "high": "0.19151880",
+    "low": "0.18000000",
+    "volume": "8388.44946279",
+    "quoteVolume": "1550.22395390",
+    "percentChange": "-2.26",
+    "updatedAt": "2020-11-23T06:24:05.11Z"
+}, {
+    "symbol": "WINGS-BTC",
+    "high": "0.00000331",
+    "low": "0.00000270",
+    "volume": "12340.70215910",
+    "quoteVolume": "0.03450623",
+    "percentChange": "-18.43",
+    "updatedAt": "2020-11-23T05:51:09.16Z"
+}, {
+    "symbol": "XDN-BTC",
+    "high": "0.00000006",
+    "low": "0.00000004",
+    "volume": "11725157.32180661",
+    "quoteVolume": "0.58608225",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T05:46:59.127Z"
+}, {
+    "symbol": "XEL-BTC",
+    "high": "0.00000009",
+    "low": "0.00000009",
+    "volume": "22178.00000000",
+    "quoteVolume": "0.00199602",
+    "percentChange": "0",
+    "updatedAt": "2020-11-21T18:43:01.443Z"
+}, {
+    "symbol": "XEM-BTC",
+    "high": "0.00000736",
+    "low": "0.00000687",
+    "volume": "2977732.83775178",
+    "quoteVolume": "21.45101582",
+    "percentChange": "-0.27",
+    "updatedAt": "2020-11-23T06:24:05.11Z"
+}, {
+    "symbol": "XEM-ETH",
+    "high": "0.00024853",
+    "low": "0.00022630",
+    "volume": "201763.93807544",
+    "quoteVolume": "47.92879836",
+    "percentChange": "-6.64",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "XHV-BTC",
+    "high": "0.00013421",
+    "low": "0.00012561",
+    "volume": "41494.52520288",
+    "quoteVolume": "5.34723847",
+    "percentChange": "1.16",
+    "updatedAt": "2020-11-23T06:23:10.09Z"
+}, {
+    "symbol": "XLM-BTC",
+    "high": "0.00000590",
+    "low": "0.00000548",
+    "volume": "4599887.28515289",
+    "quoteVolume": "26.22628022",
+    "percentChange": "4.17",
+    "updatedAt": "2020-11-23T06:24:20.11Z"
+}, {
+    "symbol": "XLM-ETH",
+    "high": "0.00019820",
+    "low": "0.00018243",
+    "volume": "295801.21184062",
+    "quoteVolume": "55.83755342",
+    "percentChange": "-2.45",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "XLM-USD",
+    "high": "0.10999887",
+    "low": "0.09990000",
+    "volume": "946250.75962997",
+    "quoteVolume": "99571.26998511",
+    "percentChange": "3.32",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "XLM-USDT",
+    "high": "0.10998938",
+    "low": "0.09666666",
+    "volume": "643106.86246299",
+    "quoteVolume": "66518.37588499",
+    "percentChange": "3.26",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "XMR-BTC",
+    "high": "0.00685497",
+    "low": "0.00665404",
+    "volume": "2703.38165296",
+    "quoteVolume": "18.27401278",
+    "percentChange": "2.17",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "XMR-ETH",
+    "high": "0.23288098",
+    "low": "0.21362722",
+    "volume": "290.26233530",
+    "quoteVolume": "65.39765295",
+    "percentChange": "-4.93",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "XMR-USDT",
+    "high": "126.68000000",
+    "low": "119.30801406",
+    "volume": "538.10180390",
+    "quoteVolume": "66624.18597859",
+    "percentChange": "1.76",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "XMY-BTC",
+    "high": "0.00000010",
+    "low": "0.00000009",
+    "volume": "2101586.57600376",
+    "quoteVolume": "0.19455170",
+    "percentChange": "-10.0",
+    "updatedAt": "2020-11-23T06:03:14.6Z"
+}, {
+    "symbol": "XRP-BTC",
+    "high": "0.00002592",
+    "low": "0.00002297",
+    "volume": "14378521.96677174",
+    "quoteVolume": "351.28236083",
+    "percentChange": "6.90",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "XRP-ETH",
+    "high": "0.00087146",
+    "low": "0.00077450",
+    "volume": "1578989.57554818",
+    "quoteVolume": "1296.45381789",
+    "percentChange": "-0.80",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "XRP-USD",
+    "high": "0.48300000",
+    "low": "0.40730000",
+    "volume": "7188940.00599478",
+    "quoteVolume": "3203407.93685851",
+    "percentChange": "6.59",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "XRP-USDT",
+    "high": "0.48359237",
+    "low": "0.40860867",
+    "volume": "4116733.56536305",
+    "quoteVolume": "1849800.45509746",
+    "percentChange": "5.92",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "XSR-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-22T06:13:13.543Z"
+}, {
+    "symbol": "XST-BTC",
+    "high": "0.00000356",
+    "low": "0.00000337",
+    "volume": "17716.93319856",
+    "quoteVolume": "0.06188167",
+    "percentChange": "2.30",
+    "updatedAt": "2020-11-23T03:38:51Z"
+}, {
+    "symbol": "XTP-BTC",
+    "high": "0.00000185",
+    "low": "0.00000164",
+    "volume": "37262.90153223",
+    "quoteVolume": "0.06496997",
+    "percentChange": "7.27",
+    "updatedAt": "2020-11-23T06:23:40.093Z"
+}, {
+    "symbol": "XTZ-BTC",
+    "high": "0.00013702",
+    "low": "0.00012140",
+    "volume": "51149.83590807",
+    "quoteVolume": "6.49054514",
+    "percentChange": "10.98",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "XTZ-ETH",
+    "high": "0.00433608",
+    "low": "0.00405880",
+    "volume": "13539.95202532",
+    "quoteVolume": "56.77019432",
+    "percentChange": "2.64",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "XTZ-USD",
+    "high": "2.52000000",
+    "low": "2.16827147",
+    "volume": "45437.49391118",
+    "quoteVolume": "105046.30429284",
+    "percentChange": "10.42",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "XTZ-USDT",
+    "high": "2.53122819",
+    "low": "2.16870000",
+    "volume": "34062.01091463",
+    "quoteVolume": "78652.06080452",
+    "percentChange": "9.18",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "XUC-BTC",
+    "high": "0.00006612",
+    "low": "0.00005759",
+    "volume": "276068.11054452",
+    "quoteVolume": "16.79752363",
+    "percentChange": "2.57",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "XUC-USDT",
+    "high": "1.18841048",
+    "low": "1.07003198",
+    "volume": "253056.58958440",
+    "quoteVolume": "280090.78325228",
+    "percentChange": "1.80",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "XVG-BTC",
+    "high": "0.00000028",
+    "low": "0.00000025",
+    "volume": "9530583.53119031",
+    "quoteVolume": "2.50973925",
+    "percentChange": "0",
+    "updatedAt": "2020-11-23T06:20:20.063Z"
+}, {
+    "symbol": "XVG-USDT",
+    "high": "0.00505537",
+    "low": "0.00440741",
+    "volume": "4873935.85933683",
+    "quoteVolume": "23380.82608708",
+    "percentChange": "1.77",
+    "updatedAt": "2020-11-23T06:24:40.067Z"
+}, {
+    "symbol": "XWC-BTC",
+    "high": "0.00001199",
+    "low": "0.00001061",
+    "volume": "2316.95886998",
+    "quoteVolume": "0.02617606",
+    "percentChange": "-6.09",
+    "updatedAt": "2020-11-23T06:24:45.097Z"
+}, {
+    "symbol": "XWC-USDT",
+    "high": "0.19800000",
+    "low": "0.17316000",
+    "volume": "3240.25239162",
+    "quoteVolume": "609.54159482",
+    "percentChange": "3.37",
+    "updatedAt": "2020-11-23T06:24:45.097Z"
+}, {
+    "symbol": "XZC-BTC",
+    "high": "0.00018980",
+    "low": "0.00018539",
+    "volume": "1287.99379169",
+    "quoteVolume": "0.24097534",
+    "percentChange": "-0.32",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "YFL-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-21T12:17:37.023Z"
+}, {
+    "symbol": "YFL-ETH",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-22T22:17:28.44Z"
+}, {
+    "symbol": "YFL-EUR",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-22T02:14:29.687Z"
+}, {
+    "symbol": "YFL-USD",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-22T01:50:24.07Z"
+}, {
+    "symbol": "YFL-USDT",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-22T17:37:31.913Z"
+}, {
+    "symbol": "YOU-BTC",
+    "high": "0.00000000",
+    "low": "0.00000000",
+    "volume": "0.00000000",
+    "quoteVolume": "0.00000000",
+    "updatedAt": "2020-11-23T06:24:10.377Z"
+}, {
+    "symbol": "ZEC-BTC",
+    "high": "0.00385485",
+    "low": "0.00366767",
+    "volume": "972.04085409",
+    "quoteVolume": "3.65054042",
+    "percentChange": "4.34",
+    "updatedAt": "2020-11-23T06:24:25.127Z"
+}, {
+    "symbol": "ZEC-ETH",
+    "high": "0.13011760",
+    "low": "0.12000000",
+    "volume": "161.38656733",
+    "quoteVolume": "20.05477395",
+    "percentChange": "-2.59",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ZEC-USD",
+    "high": "71.44400000",
+    "low": "65.25100000",
+    "volume": "1586.99853576",
+    "quoteVolume": "108296.14994222",
+    "percentChange": "4.63",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ZEC-USDT",
+    "high": "72.00000000",
+    "low": "65.32000000",
+    "volume": "789.47364866",
+    "quoteVolume": "54758.58513215",
+    "percentChange": "4.51",
+    "updatedAt": "2020-11-23T06:24:35.16Z"
+}, {
+    "symbol": "ZEN-BTC",
+    "high": "0.00059000",
+    "low": "0.00042836",
+    "volume": "20263.17679832",
+    "quoteVolume": "10.04031290",
+    "percentChange": "35.89",
+    "updatedAt": "2020-11-23T06:24:35.16Z"
+}, {
+    "symbol": "ZEN-USD",
+    "high": "10.78588000",
+    "low": "7.74000000",
+    "volume": "7119.78670968",
+    "quoteVolume": "64982.09900585",
+    "percentChange": "29.40",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ZIL-BTC",
+    "high": "0.00000125",
+    "low": "0.00000120",
+    "volume": "263749.54260838",
+    "quoteVolume": "0.32533407",
+    "percentChange": "1.64",
+    "updatedAt": "2020-11-23T06:19:25.09Z"
+}, {
+    "symbol": "ZRX-BTC",
+    "high": "0.00002203",
+    "low": "0.00002113",
+    "volume": "132433.91720680",
+    "quoteVolume": "2.86841838",
+    "percentChange": "3.63",
+    "updatedAt": "2020-11-23T06:24:35.16Z"
+}, {
+    "symbol": "ZRX-ETH",
+    "high": "0.00075074",
+    "low": "0.00068737",
+    "volume": "29871.35348451",
+    "quoteVolume": "21.21929087",
+    "percentChange": "-3.10",
+    "updatedAt": "2020-11-23T06:24:55.223Z"
+}, {
+    "symbol": "ZRX-USD",
+    "high": "0.40929000",
+    "low": "0.38632000",
+    "volume": "25394.79869161",
+    "quoteVolume": "10129.45293109",
+    "percentChange": "3.06",
+    "updatedAt": "2020-11-23T06:24:50.097Z"
+}, {
+    "symbol": "ZRX-USDT",
+    "high": "0.40852500",
+    "low": "0.38368800",
+    "volume": "33865.59799159",
+    "quoteVolume": "13515.41009568",
+    "percentChange": "3.27",
+    "updatedAt": "2020-11-23T06:24:45.097Z"
+}]

@@ -1,0 +1,20 @@
+body{
+  background-color: #f2f0e6;
+}
+.icon-right-space{
+  padding: 5px 10px;
+  vertical-align: middle;
+  color: #007840;
+  margin: 0 0 5px 0;
+}
+
+.article_snippet{
+  text-overflow: ellipsis;
+  max-width: 240ch;
+}
+
+.MuiToolbar-regular h3{
+  vertical-align:top!important;
+  margin-bottom: 5px;
+  text-align: center;
+}
